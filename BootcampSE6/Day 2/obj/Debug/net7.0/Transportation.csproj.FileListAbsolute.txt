@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\obj\Debug\net7.0\Transportation.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\obj\Debug\net7.0\Transportation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\obj\Debug\net7.0\Transportation.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\obj\Debug\net7.0\Transportation.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\obj\Debug\net7.0\Transportation.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\bin\Debug\net7.0\Transportation.exe
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\bin\Debug\net7.0\Transportation.deps.json
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\bin\Debug\net7.0\Transportation.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\bin\Debug\net7.0\Transportation.dll
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\bin\Debug\net7.0\Transportation.pdb
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\obj\Debug\net7.0\Transportation.dll
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\obj\Debug\net7.0\refint\Transportation.dll
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\obj\Debug\net7.0\Transportation.pdb
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\obj\Debug\net7.0\Transportation.genruntimeconfig.cache
+D:\Muhammad Hidayatullah Aspar\Bootcamp batch 6\Transportation\obj\Debug\net7.0\ref\Transportation.dll
