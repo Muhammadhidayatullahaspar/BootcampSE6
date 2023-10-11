@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day3\Project2_Property\bin\Debug\net7.0\Project2_Property.exe
+d:\BootcampSE6\Day3\Project2_Property\bin\Debug\net7.0\Project2_Property.deps.json
+d:\BootcampSE6\Day3\Project2_Property\bin\Debug\net7.0\Project2_Property.runtimeconfig.json
+D:\BootcampSE6\Day3\Project2_Property\bin\Debug\net7.0\Project2_Property.dll
+D:\BootcampSE6\Day3\Project2_Property\bin\Debug\net7.0\Project2_Property.pdb
+D:\BootcampSE6\Day3\Project2_Property\obj\Debug\net7.0\Project2_Property.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day3\Project2_Property\obj\Debug\net7.0\Project2_Property.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day3\Project2_Property\obj\Debug\net7.0\Project2_Property.AssemblyInfo.cs
+D:\BootcampSE6\Day3\Project2_Property\obj\Debug\net7.0\Project2_Property.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day3\Project2_Property\obj\Debug\net7.0\Project2_Property.dll
+D:\BootcampSE6\Day3\Project2_Property\obj\Debug\net7.0\refint\Project2_Property.dll
+D:\BootcampSE6\Day3\Project2_Property\obj\Debug\net7.0\Project2_Property.pdb
+d:\BootcampSE6\Day3\Project2_Property\obj\Debug\net7.0\Project2_Property.genruntimeconfig.cache
+d:\BootcampSE6\Day3\Project2_Property\obj\Debug\net7.0\ref\Project2_Property.dll

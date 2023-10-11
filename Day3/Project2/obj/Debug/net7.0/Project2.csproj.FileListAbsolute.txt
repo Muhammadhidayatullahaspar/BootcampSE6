@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\bin\Debug\net7.0\Project2.exe
+d:\Muhammad Hidayatullah Aspar\Day3\Project2\bin\Debug\net7.0\Project2.deps.json
+d:\Muhammad Hidayatullah Aspar\Day3\Project2\bin\Debug\net7.0\Project2.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\bin\Debug\net7.0\Project2.dll
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\bin\Debug\net7.0\Project2.pdb
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\obj\Debug\net7.0\Project2.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\obj\Debug\net7.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\obj\Debug\net7.0\Project2.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\obj\Debug\net7.0\Project2.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\obj\Debug\net7.0\Project2.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\obj\Debug\net7.0\Project2.dll
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\obj\Debug\net7.0\refint\Project2.dll
+D:\Muhammad Hidayatullah Aspar\Day3\Project2\obj\Debug\net7.0\Project2.pdb
+d:\Muhammad Hidayatullah Aspar\Day3\Project2\obj\Debug\net7.0\Project2.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day3\Project2\obj\Debug\net7.0\ref\Project2.dll
