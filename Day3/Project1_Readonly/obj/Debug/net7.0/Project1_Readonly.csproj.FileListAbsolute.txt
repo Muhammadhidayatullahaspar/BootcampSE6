@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day3\Project1_Readonly\bin\Debug\net7.0\Project1_Readonly.exe
+d:\BootcampSE6\Day3\Project1_Readonly\bin\Debug\net7.0\Project1_Readonly.deps.json
+d:\BootcampSE6\Day3\Project1_Readonly\bin\Debug\net7.0\Project1_Readonly.runtimeconfig.json
+D:\BootcampSE6\Day3\Project1_Readonly\bin\Debug\net7.0\Project1_Readonly.dll
+D:\BootcampSE6\Day3\Project1_Readonly\bin\Debug\net7.0\Project1_Readonly.pdb
+D:\BootcampSE6\Day3\Project1_Readonly\obj\Debug\net7.0\Project1_Readonly.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day3\Project1_Readonly\obj\Debug\net7.0\Project1_Readonly.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day3\Project1_Readonly\obj\Debug\net7.0\Project1_Readonly.AssemblyInfo.cs
+D:\BootcampSE6\Day3\Project1_Readonly\obj\Debug\net7.0\Project1_Readonly.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day3\Project1_Readonly\obj\Debug\net7.0\Project1_Readonly.dll
+D:\BootcampSE6\Day3\Project1_Readonly\obj\Debug\net7.0\refint\Project1_Readonly.dll
+D:\BootcampSE6\Day3\Project1_Readonly\obj\Debug\net7.0\Project1_Readonly.pdb
+d:\BootcampSE6\Day3\Project1_Readonly\obj\Debug\net7.0\Project1_Readonly.genruntimeconfig.cache
+d:\BootcampSE6\Day3\Project1_Readonly\obj\Debug\net7.0\ref\Project1_Readonly.dll
