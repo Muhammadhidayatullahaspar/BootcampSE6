@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day4\Project4_Interface2\obj\Debug\net7.0\Project4_Interface2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day4\Project4_Interface2\obj\Debug\net7.0\Project4_Interface2.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day4\Project4_Interface2\obj\Debug\net7.0\Project4_Interface2.AssemblyInfo.cs
+D:\BootcampSE6\Day4\Project4_Interface2\obj\Debug\net7.0\Project4_Interface2.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day4\Project4_Interface2\bin\Debug\net7.0\Project4_Interface2.exe
+d:\BootcampSE6\Day4\Project4_Interface2\bin\Debug\net7.0\Project4_Interface2.deps.json
+d:\BootcampSE6\Day4\Project4_Interface2\bin\Debug\net7.0\Project4_Interface2.runtimeconfig.json
+D:\BootcampSE6\Day4\Project4_Interface2\bin\Debug\net7.0\Project4_Interface2.dll
+D:\BootcampSE6\Day4\Project4_Interface2\bin\Debug\net7.0\Project4_Interface2.pdb
+D:\BootcampSE6\Day4\Project4_Interface2\obj\Debug\net7.0\Project4_Interface2.dll
+D:\BootcampSE6\Day4\Project4_Interface2\obj\Debug\net7.0\refint\Project4_Interface2.dll
+D:\BootcampSE6\Day4\Project4_Interface2\obj\Debug\net7.0\Project4_Interface2.pdb
+d:\BootcampSE6\Day4\Project4_Interface2\obj\Debug\net7.0\Project4_Interface2.genruntimeconfig.cache
+d:\BootcampSE6\Day4\Project4_Interface2\obj\Debug\net7.0\ref\Project4_Interface2.dll
