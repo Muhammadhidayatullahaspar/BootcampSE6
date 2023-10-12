@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\bin\Debug\net7.0\Project3_Interface.exe
+d:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\bin\Debug\net7.0\Project3_Interface.deps.json
+d:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\bin\Debug\net7.0\Project3_Interface.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\bin\Debug\net7.0\Project3_Interface.dll
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\bin\Debug\net7.0\Project3_Interface.pdb
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\obj\Debug\net7.0\Project3_Interface.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\obj\Debug\net7.0\Project3_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\obj\Debug\net7.0\Project3_Interface.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\obj\Debug\net7.0\Project3_Interface.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\obj\Debug\net7.0\Project3_Interface.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\obj\Debug\net7.0\Project3_Interface.dll
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\obj\Debug\net7.0\refint\Project3_Interface.dll
+D:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\obj\Debug\net7.0\Project3_Interface.pdb
+d:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\obj\Debug\net7.0\Project3_Interface.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day4\Project3_Interface\obj\Debug\net7.0\ref\Project3_Interface.dll
