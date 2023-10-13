@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\obj\Debug\net7.0\Project3_Reference_String.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\obj\Debug\net7.0\Project3_Reference_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\obj\Debug\net7.0\Project3_Reference_String.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\obj\Debug\net7.0\Project3_Reference_String.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\obj\Debug\net7.0\Project3_Reference_String.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\bin\Debug\net7.0\Project3_Reference_String.exe
+d:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\bin\Debug\net7.0\Project3_Reference_String.deps.json
+d:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\bin\Debug\net7.0\Project3_Reference_String.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\bin\Debug\net7.0\Project3_Reference_String.dll
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\bin\Debug\net7.0\Project3_Reference_String.pdb
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\obj\Debug\net7.0\Project3_Reference_String.dll
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\obj\Debug\net7.0\refint\Project3_Reference_String.dll
+D:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\obj\Debug\net7.0\Project3_Reference_String.pdb
+d:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\obj\Debug\net7.0\Project3_Reference_String.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day5\Project3_Reference_String\obj\Debug\net7.0\ref\Project3_Reference_String.dll

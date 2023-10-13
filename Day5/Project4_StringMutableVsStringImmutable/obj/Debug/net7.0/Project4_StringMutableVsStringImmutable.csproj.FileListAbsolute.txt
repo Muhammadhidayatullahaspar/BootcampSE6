@@ -1,0 +1,5 @@
+D:\Muhammad Hidayatullah Aspar\Day5\Project4_StringMutableVsStringImmutable\obj\Debug\net7.0\Project4_StringMutableVsStringImmutable.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day5\Project4_StringMutableVsStringImmutable\obj\Debug\net7.0\Project4_StringMutableVsStringImmutable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day5\Project4_StringMutableVsStringImmutable\obj\Debug\net7.0\Project4_StringMutableVsStringImmutable.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day5\Project4_StringMutableVsStringImmutable\obj\Debug\net7.0\Project4_StringMutableVsStringImmutable.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day5\Project4_StringMutableVsStringImmutable\obj\Debug\net7.0\Project4_StringMutableVsStringImmutable.csproj.CoreCompileInputs.cache
