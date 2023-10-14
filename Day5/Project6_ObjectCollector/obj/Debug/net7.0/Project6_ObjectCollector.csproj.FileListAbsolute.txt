@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day5\Project6_ObjectCollector\bin\Debug\net7.0\Project6_ObjectCollector.exe
+d:\BootcampSE6\Day5\Project6_ObjectCollector\bin\Debug\net7.0\Project6_ObjectCollector.deps.json
+d:\BootcampSE6\Day5\Project6_ObjectCollector\bin\Debug\net7.0\Project6_ObjectCollector.runtimeconfig.json
+D:\BootcampSE6\Day5\Project6_ObjectCollector\bin\Debug\net7.0\Project6_ObjectCollector.dll
+D:\BootcampSE6\Day5\Project6_ObjectCollector\bin\Debug\net7.0\Project6_ObjectCollector.pdb
+D:\BootcampSE6\Day5\Project6_ObjectCollector\obj\Debug\net7.0\Project6_ObjectCollector.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day5\Project6_ObjectCollector\obj\Debug\net7.0\Project6_ObjectCollector.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day5\Project6_ObjectCollector\obj\Debug\net7.0\Project6_ObjectCollector.AssemblyInfo.cs
+D:\BootcampSE6\Day5\Project6_ObjectCollector\obj\Debug\net7.0\Project6_ObjectCollector.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day5\Project6_ObjectCollector\obj\Debug\net7.0\Project6_ObjectCollector.dll
+D:\BootcampSE6\Day5\Project6_ObjectCollector\obj\Debug\net7.0\refint\Project6_ObjectCollector.dll
+D:\BootcampSE6\Day5\Project6_ObjectCollector\obj\Debug\net7.0\Project6_ObjectCollector.pdb
+d:\BootcampSE6\Day5\Project6_ObjectCollector\obj\Debug\net7.0\Project6_ObjectCollector.genruntimeconfig.cache
+d:\BootcampSE6\Day5\Project6_ObjectCollector\obj\Debug\net7.0\ref\Project6_ObjectCollector.dll

@@ -1,0 +1,5 @@
+d:\BootcampSE6\Day5\Project6_ObjectCollector\bin\Debug\net7.0\publish\Project6_ObjectCollector.exe
+d:\BootcampSE6\Day5\Project6_ObjectCollector\bin\Debug\net7.0\publish\Project6_ObjectCollector.dll
+d:\BootcampSE6\Day5\Project6_ObjectCollector\bin\Debug\net7.0\publish\Project6_ObjectCollector.deps.json
+d:\BootcampSE6\Day5\Project6_ObjectCollector\bin\Debug\net7.0\publish\Project6_ObjectCollector.runtimeconfig.json
+d:\BootcampSE6\Day5\Project6_ObjectCollector\bin\Debug\net7.0\publish\Project6_ObjectCollector.pdb

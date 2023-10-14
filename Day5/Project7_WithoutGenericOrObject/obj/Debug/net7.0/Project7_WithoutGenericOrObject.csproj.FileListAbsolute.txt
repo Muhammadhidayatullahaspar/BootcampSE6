@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\obj\Debug\net7.0\Project7_WithoutGenericOrObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\obj\Debug\net7.0\Project7_WithoutGenericOrObject.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\obj\Debug\net7.0\Project7_WithoutGenericOrObject.AssemblyInfo.cs
+D:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\obj\Debug\net7.0\Project7_WithoutGenericOrObject.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\bin\Debug\net7.0\Project7_WithoutGenericOrObject.exe
+d:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\bin\Debug\net7.0\Project7_WithoutGenericOrObject.deps.json
+d:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\bin\Debug\net7.0\Project7_WithoutGenericOrObject.runtimeconfig.json
+D:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\bin\Debug\net7.0\Project7_WithoutGenericOrObject.dll
+D:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\bin\Debug\net7.0\Project7_WithoutGenericOrObject.pdb
+D:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\obj\Debug\net7.0\Project7_WithoutGenericOrObject.dll
+D:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\obj\Debug\net7.0\refint\Project7_WithoutGenericOrObject.dll
+D:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\obj\Debug\net7.0\Project7_WithoutGenericOrObject.pdb
+d:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\obj\Debug\net7.0\Project7_WithoutGenericOrObject.genruntimeconfig.cache
+d:\BootcampSE6\Day5\Project7_WithoutGenericOrObject\obj\Debug\net7.0\ref\Project7_WithoutGenericOrObject.dll

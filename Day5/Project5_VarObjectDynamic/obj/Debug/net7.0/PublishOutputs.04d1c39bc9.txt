@@ -1,0 +1,5 @@
+d:\BootcampSE6\Day5\Project5_VarObjectDynamic\bin\Debug\net7.0\publish\Project5_VarObjectDynamic.exe
+d:\BootcampSE6\Day5\Project5_VarObjectDynamic\bin\Debug\net7.0\publish\Project5_VarObjectDynamic.dll
+d:\BootcampSE6\Day5\Project5_VarObjectDynamic\bin\Debug\net7.0\publish\Project5_VarObjectDynamic.deps.json
+d:\BootcampSE6\Day5\Project5_VarObjectDynamic\bin\Debug\net7.0\publish\Project5_VarObjectDynamic.runtimeconfig.json
+d:\BootcampSE6\Day5\Project5_VarObjectDynamic\bin\Debug\net7.0\publish\Project5_VarObjectDynamic.pdb

@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day5\Project5_VarObjectDynamic\obj\Debug\net7.0\Project5_VarObjectDynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day5\Project5_VarObjectDynamic\obj\Debug\net7.0\Project5_VarObjectDynamic.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day5\Project5_VarObjectDynamic\obj\Debug\net7.0\Project5_VarObjectDynamic.AssemblyInfo.cs
+D:\BootcampSE6\Day5\Project5_VarObjectDynamic\obj\Debug\net7.0\Project5_VarObjectDynamic.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day5\Project5_VarObjectDynamic\bin\Debug\net7.0\Project5_VarObjectDynamic.exe
+d:\BootcampSE6\Day5\Project5_VarObjectDynamic\bin\Debug\net7.0\Project5_VarObjectDynamic.deps.json
+d:\BootcampSE6\Day5\Project5_VarObjectDynamic\bin\Debug\net7.0\Project5_VarObjectDynamic.runtimeconfig.json
+D:\BootcampSE6\Day5\Project5_VarObjectDynamic\bin\Debug\net7.0\Project5_VarObjectDynamic.dll
+D:\BootcampSE6\Day5\Project5_VarObjectDynamic\bin\Debug\net7.0\Project5_VarObjectDynamic.pdb
+D:\BootcampSE6\Day5\Project5_VarObjectDynamic\obj\Debug\net7.0\Project5_VarObjectDynamic.dll
+D:\BootcampSE6\Day5\Project5_VarObjectDynamic\obj\Debug\net7.0\refint\Project5_VarObjectDynamic.dll
+D:\BootcampSE6\Day5\Project5_VarObjectDynamic\obj\Debug\net7.0\Project5_VarObjectDynamic.pdb
+d:\BootcampSE6\Day5\Project5_VarObjectDynamic\obj\Debug\net7.0\Project5_VarObjectDynamic.genruntimeconfig.cache
+d:\BootcampSE6\Day5\Project5_VarObjectDynamic\obj\Debug\net7.0\ref\Project5_VarObjectDynamic.dll
