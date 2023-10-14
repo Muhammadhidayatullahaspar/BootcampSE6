@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day5\Project8_GenericCollector\obj\Debug\net7.0\Project8_GenericCollector.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day5\Project8_GenericCollector\obj\Debug\net7.0\Project8_GenericCollector.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day5\Project8_GenericCollector\obj\Debug\net7.0\Project8_GenericCollector.AssemblyInfo.cs
+D:\BootcampSE6\Day5\Project8_GenericCollector\obj\Debug\net7.0\Project8_GenericCollector.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day5\Project8_GenericCollector\bin\Debug\net7.0\Project8_GenericCollector.exe
+d:\BootcampSE6\Day5\Project8_GenericCollector\bin\Debug\net7.0\Project8_GenericCollector.deps.json
+d:\BootcampSE6\Day5\Project8_GenericCollector\bin\Debug\net7.0\Project8_GenericCollector.runtimeconfig.json
+D:\BootcampSE6\Day5\Project8_GenericCollector\bin\Debug\net7.0\Project8_GenericCollector.dll
+D:\BootcampSE6\Day5\Project8_GenericCollector\bin\Debug\net7.0\Project8_GenericCollector.pdb
+D:\BootcampSE6\Day5\Project8_GenericCollector\obj\Debug\net7.0\Project8_GenericCollector.dll
+D:\BootcampSE6\Day5\Project8_GenericCollector\obj\Debug\net7.0\refint\Project8_GenericCollector.dll
+D:\BootcampSE6\Day5\Project8_GenericCollector\obj\Debug\net7.0\Project8_GenericCollector.pdb
+d:\BootcampSE6\Day5\Project8_GenericCollector\obj\Debug\net7.0\Project8_GenericCollector.genruntimeconfig.cache
+d:\BootcampSE6\Day5\Project8_GenericCollector\obj\Debug\net7.0\ref\Project8_GenericCollector.dll

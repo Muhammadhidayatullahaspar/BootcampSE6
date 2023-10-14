@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day5\Project9_GenericClassCollector\obj\Debug\net7.0\Project9_GenericClassCollector.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day5\Project9_GenericClassCollector\obj\Debug\net7.0\Project9_GenericClassCollector.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day5\Project9_GenericClassCollector\obj\Debug\net7.0\Project9_GenericClassCollector.AssemblyInfo.cs
+D:\BootcampSE6\Day5\Project9_GenericClassCollector\obj\Debug\net7.0\Project9_GenericClassCollector.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day5\Project9_GenericClassCollector\bin\Debug\net7.0\Project9_GenericClassCollector.exe
+d:\BootcampSE6\Day5\Project9_GenericClassCollector\bin\Debug\net7.0\Project9_GenericClassCollector.deps.json
+d:\BootcampSE6\Day5\Project9_GenericClassCollector\bin\Debug\net7.0\Project9_GenericClassCollector.runtimeconfig.json
+D:\BootcampSE6\Day5\Project9_GenericClassCollector\bin\Debug\net7.0\Project9_GenericClassCollector.dll
+D:\BootcampSE6\Day5\Project9_GenericClassCollector\bin\Debug\net7.0\Project9_GenericClassCollector.pdb
+D:\BootcampSE6\Day5\Project9_GenericClassCollector\obj\Debug\net7.0\Project9_GenericClassCollector.dll
+D:\BootcampSE6\Day5\Project9_GenericClassCollector\obj\Debug\net7.0\refint\Project9_GenericClassCollector.dll
+D:\BootcampSE6\Day5\Project9_GenericClassCollector\obj\Debug\net7.0\Project9_GenericClassCollector.pdb
+d:\BootcampSE6\Day5\Project9_GenericClassCollector\obj\Debug\net7.0\Project9_GenericClassCollector.genruntimeconfig.cache
+d:\BootcampSE6\Day5\Project9_GenericClassCollector\obj\Debug\net7.0\ref\Project9_GenericClassCollector.dll
