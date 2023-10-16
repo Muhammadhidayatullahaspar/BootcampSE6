@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\obj\Debug\net7.0\Project3_Ref, Out, In.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\obj\Debug\net7.0\Project3_Ref, Out, In.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\obj\Debug\net7.0\Project3_Ref, Out, In.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\obj\Debug\net7.0\Project3_Ref, Out, In.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\obj\Debug\net7.0\Project3_Ref, Out, In.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\bin\Debug\net7.0\Project3_Ref, Out, In.exe
+d:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\bin\Debug\net7.0\Project3_Ref, Out, In.deps.json
+d:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\bin\Debug\net7.0\Project3_Ref, Out, In.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\bin\Debug\net7.0\Project3_Ref, Out, In.dll
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\bin\Debug\net7.0\Project3_Ref, Out, In.pdb
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\obj\Debug\net7.0\Project3_Ref, Out, In.dll
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\obj\Debug\net7.0\refint\Project3_Ref, Out, In.dll
+D:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\obj\Debug\net7.0\Project3_Ref, Out, In.pdb
+d:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\obj\Debug\net7.0\Project3_Ref, Out, In.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day6\Project3_Ref, Out, In\obj\Debug\net7.0\ref\Project3_Ref, Out, In.dll

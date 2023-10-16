@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\obj\Debug\net7.0\Project2_ObjectGeneric.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\obj\Debug\net7.0\Project2_ObjectGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\obj\Debug\net7.0\Project2_ObjectGeneric.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\obj\Debug\net7.0\Project2_ObjectGeneric.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\obj\Debug\net7.0\Project2_ObjectGeneric.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\bin\Debug\net7.0\Project2_ObjectGeneric.exe
+d:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\bin\Debug\net7.0\Project2_ObjectGeneric.deps.json
+d:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\bin\Debug\net7.0\Project2_ObjectGeneric.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\bin\Debug\net7.0\Project2_ObjectGeneric.dll
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\bin\Debug\net7.0\Project2_ObjectGeneric.pdb
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\obj\Debug\net7.0\Project2_ObjectGeneric.dll
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\obj\Debug\net7.0\refint\Project2_ObjectGeneric.dll
+D:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\obj\Debug\net7.0\Project2_ObjectGeneric.pdb
+d:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\obj\Debug\net7.0\Project2_ObjectGeneric.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day6\Project2_ObjectGeneric\obj\Debug\net7.0\ref\Project2_ObjectGeneric.dll
