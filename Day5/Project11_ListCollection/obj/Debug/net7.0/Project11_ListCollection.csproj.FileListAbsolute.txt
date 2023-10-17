@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day5\Project11_ListCollection\bin\Debug\net7.0\Project11_ListCollection.exe
+d:\BootcampSE6\Day5\Project11_ListCollection\bin\Debug\net7.0\Project11_ListCollection.deps.json
+d:\BootcampSE6\Day5\Project11_ListCollection\bin\Debug\net7.0\Project11_ListCollection.runtimeconfig.json
+D:\BootcampSE6\Day5\Project11_ListCollection\bin\Debug\net7.0\Project11_ListCollection.dll
+D:\BootcampSE6\Day5\Project11_ListCollection\bin\Debug\net7.0\Project11_ListCollection.pdb
+D:\BootcampSE6\Day5\Project11_ListCollection\obj\Debug\net7.0\Project11_ListCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day5\Project11_ListCollection\obj\Debug\net7.0\Project11_ListCollection.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day5\Project11_ListCollection\obj\Debug\net7.0\Project11_ListCollection.AssemblyInfo.cs
+D:\BootcampSE6\Day5\Project11_ListCollection\obj\Debug\net7.0\Project11_ListCollection.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day5\Project11_ListCollection\obj\Debug\net7.0\Project11_ListCollection.dll
+D:\BootcampSE6\Day5\Project11_ListCollection\obj\Debug\net7.0\refint\Project11_ListCollection.dll
+D:\BootcampSE6\Day5\Project11_ListCollection\obj\Debug\net7.0\Project11_ListCollection.pdb
+d:\BootcampSE6\Day5\Project11_ListCollection\obj\Debug\net7.0\Project11_ListCollection.genruntimeconfig.cache
+d:\BootcampSE6\Day5\Project11_ListCollection\obj\Debug\net7.0\ref\Project11_ListCollection.dll
