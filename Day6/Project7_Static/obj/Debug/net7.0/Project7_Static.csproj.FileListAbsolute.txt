@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day6\Project7_Static\bin\Debug\net7.0\Project7_Static.exe
+d:\BootcampSE6\Day6\Project7_Static\bin\Debug\net7.0\Project7_Static.deps.json
+d:\BootcampSE6\Day6\Project7_Static\bin\Debug\net7.0\Project7_Static.runtimeconfig.json
+D:\BootcampSE6\Day6\Project7_Static\bin\Debug\net7.0\Project7_Static.dll
+D:\BootcampSE6\Day6\Project7_Static\bin\Debug\net7.0\Project7_Static.pdb
+D:\BootcampSE6\Day6\Project7_Static\obj\Debug\net7.0\Project7_Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day6\Project7_Static\obj\Debug\net7.0\Project7_Static.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day6\Project7_Static\obj\Debug\net7.0\Project7_Static.AssemblyInfo.cs
+D:\BootcampSE6\Day6\Project7_Static\obj\Debug\net7.0\Project7_Static.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day6\Project7_Static\obj\Debug\net7.0\Project7_Static.dll
+D:\BootcampSE6\Day6\Project7_Static\obj\Debug\net7.0\refint\Project7_Static.dll
+D:\BootcampSE6\Day6\Project7_Static\obj\Debug\net7.0\Project7_Static.pdb
+d:\BootcampSE6\Day6\Project7_Static\obj\Debug\net7.0\Project7_Static.genruntimeconfig.cache
+d:\BootcampSE6\Day6\Project7_Static\obj\Debug\net7.0\ref\Project7_Static.dll

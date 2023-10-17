@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day6\Project5_String\obj\Debug\net7.0\Project5_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day6\Project5_String\obj\Debug\net7.0\Project5_String.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day6\Project5_String\obj\Debug\net7.0\Project5_String.AssemblyInfo.cs
+D:\BootcampSE6\Day6\Project5_String\obj\Debug\net7.0\Project5_String.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day6\Project5_String\bin\Debug\net7.0\Project5_String.exe
+d:\BootcampSE6\Day6\Project5_String\bin\Debug\net7.0\Project5_String.deps.json
+d:\BootcampSE6\Day6\Project5_String\bin\Debug\net7.0\Project5_String.runtimeconfig.json
+D:\BootcampSE6\Day6\Project5_String\bin\Debug\net7.0\Project5_String.dll
+D:\BootcampSE6\Day6\Project5_String\bin\Debug\net7.0\Project5_String.pdb
+D:\BootcampSE6\Day6\Project5_String\obj\Debug\net7.0\Project5_String.dll
+D:\BootcampSE6\Day6\Project5_String\obj\Debug\net7.0\refint\Project5_String.dll
+D:\BootcampSE6\Day6\Project5_String\obj\Debug\net7.0\Project5_String.pdb
+d:\BootcampSE6\Day6\Project5_String\obj\Debug\net7.0\Project5_String.genruntimeconfig.cache
+d:\BootcampSE6\Day6\Project5_String\obj\Debug\net7.0\ref\Project5_String.dll

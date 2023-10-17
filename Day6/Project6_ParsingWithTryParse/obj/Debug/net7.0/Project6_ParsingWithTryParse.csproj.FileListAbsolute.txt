@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day6\Project6_ParsingWithTryParse\bin\Debug\net7.0\Project6_ParsingWithTryParse.exe
+d:\BootcampSE6\Day6\Project6_ParsingWithTryParse\bin\Debug\net7.0\Project6_ParsingWithTryParse.deps.json
+d:\BootcampSE6\Day6\Project6_ParsingWithTryParse\bin\Debug\net7.0\Project6_ParsingWithTryParse.runtimeconfig.json
+D:\BootcampSE6\Day6\Project6_ParsingWithTryParse\bin\Debug\net7.0\Project6_ParsingWithTryParse.dll
+D:\BootcampSE6\Day6\Project6_ParsingWithTryParse\bin\Debug\net7.0\Project6_ParsingWithTryParse.pdb
+D:\BootcampSE6\Day6\Project6_ParsingWithTryParse\obj\Debug\net7.0\Project6_ParsingWithTryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day6\Project6_ParsingWithTryParse\obj\Debug\net7.0\Project6_ParsingWithTryParse.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day6\Project6_ParsingWithTryParse\obj\Debug\net7.0\Project6_ParsingWithTryParse.AssemblyInfo.cs
+D:\BootcampSE6\Day6\Project6_ParsingWithTryParse\obj\Debug\net7.0\Project6_ParsingWithTryParse.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day6\Project6_ParsingWithTryParse\obj\Debug\net7.0\Project6_ParsingWithTryParse.dll
+D:\BootcampSE6\Day6\Project6_ParsingWithTryParse\obj\Debug\net7.0\refint\Project6_ParsingWithTryParse.dll
+D:\BootcampSE6\Day6\Project6_ParsingWithTryParse\obj\Debug\net7.0\Project6_ParsingWithTryParse.pdb
+d:\BootcampSE6\Day6\Project6_ParsingWithTryParse\obj\Debug\net7.0\Project6_ParsingWithTryParse.genruntimeconfig.cache
+d:\BootcampSE6\Day6\Project6_ParsingWithTryParse\obj\Debug\net7.0\ref\Project6_ParsingWithTryParse.dll
