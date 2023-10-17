@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day6\Project10_Delegate\obj\Debug\net7.0\Project10_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day6\Project10_Delegate\obj\Debug\net7.0\Project10_Delegate.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day6\Project10_Delegate\obj\Debug\net7.0\Project10_Delegate.AssemblyInfo.cs
+D:\BootcampSE6\Day6\Project10_Delegate\obj\Debug\net7.0\Project10_Delegate.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day6\Project10_Delegate\bin\Debug\net7.0\Project10_Delegate.exe
+d:\BootcampSE6\Day6\Project10_Delegate\bin\Debug\net7.0\Project10_Delegate.deps.json
+d:\BootcampSE6\Day6\Project10_Delegate\bin\Debug\net7.0\Project10_Delegate.runtimeconfig.json
+D:\BootcampSE6\Day6\Project10_Delegate\bin\Debug\net7.0\Project10_Delegate.dll
+D:\BootcampSE6\Day6\Project10_Delegate\bin\Debug\net7.0\Project10_Delegate.pdb
+D:\BootcampSE6\Day6\Project10_Delegate\obj\Debug\net7.0\Project10_Delegate.dll
+D:\BootcampSE6\Day6\Project10_Delegate\obj\Debug\net7.0\refint\Project10_Delegate.dll
+D:\BootcampSE6\Day6\Project10_Delegate\obj\Debug\net7.0\Project10_Delegate.pdb
+d:\BootcampSE6\Day6\Project10_Delegate\obj\Debug\net7.0\Project10_Delegate.genruntimeconfig.cache
+d:\BootcampSE6\Day6\Project10_Delegate\obj\Debug\net7.0\ref\Project10_Delegate.dll
