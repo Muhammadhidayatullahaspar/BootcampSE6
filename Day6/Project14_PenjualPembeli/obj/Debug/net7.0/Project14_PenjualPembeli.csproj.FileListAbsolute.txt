@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day6\Project14_PenjualPembeli\obj\Debug\net7.0\Project14_PenjualPembeli.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day6\Project14_PenjualPembeli\obj\Debug\net7.0\Project14_PenjualPembeli.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day6\Project14_PenjualPembeli\obj\Debug\net7.0\Project14_PenjualPembeli.AssemblyInfo.cs
+D:\BootcampSE6\Day6\Project14_PenjualPembeli\obj\Debug\net7.0\Project14_PenjualPembeli.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day6\Project14_PenjualPembeli\bin\Debug\net7.0\Project14_PenjualPembeli.exe
+d:\BootcampSE6\Day6\Project14_PenjualPembeli\bin\Debug\net7.0\Project14_PenjualPembeli.deps.json
+d:\BootcampSE6\Day6\Project14_PenjualPembeli\bin\Debug\net7.0\Project14_PenjualPembeli.runtimeconfig.json
+D:\BootcampSE6\Day6\Project14_PenjualPembeli\bin\Debug\net7.0\Project14_PenjualPembeli.dll
+D:\BootcampSE6\Day6\Project14_PenjualPembeli\bin\Debug\net7.0\Project14_PenjualPembeli.pdb
+D:\BootcampSE6\Day6\Project14_PenjualPembeli\obj\Debug\net7.0\Project14_PenjualPembeli.dll
+D:\BootcampSE6\Day6\Project14_PenjualPembeli\obj\Debug\net7.0\refint\Project14_PenjualPembeli.dll
+D:\BootcampSE6\Day6\Project14_PenjualPembeli\obj\Debug\net7.0\Project14_PenjualPembeli.pdb
+d:\BootcampSE6\Day6\Project14_PenjualPembeli\obj\Debug\net7.0\Project14_PenjualPembeli.genruntimeconfig.cache
+d:\BootcampSE6\Day6\Project14_PenjualPembeli\obj\Debug\net7.0\ref\Project14_PenjualPembeli.dll
