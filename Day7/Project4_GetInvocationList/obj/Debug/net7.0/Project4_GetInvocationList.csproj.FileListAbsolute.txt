@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\obj\Debug\net7.0\Project4_GetInvocationList.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\obj\Debug\net7.0\Project4_GetInvocationList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\obj\Debug\net7.0\Project4_GetInvocationList.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\obj\Debug\net7.0\Project4_GetInvocationList.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\obj\Debug\net7.0\Project4_GetInvocationList.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\bin\Debug\net7.0\Project4_GetInvocationList.exe
+d:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\bin\Debug\net7.0\Project4_GetInvocationList.deps.json
+d:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\bin\Debug\net7.0\Project4_GetInvocationList.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\bin\Debug\net7.0\Project4_GetInvocationList.dll
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\bin\Debug\net7.0\Project4_GetInvocationList.pdb
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\obj\Debug\net7.0\Project4_GetInvocationList.dll
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\obj\Debug\net7.0\refint\Project4_GetInvocationList.dll
+D:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\obj\Debug\net7.0\Project4_GetInvocationList.pdb
+d:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\obj\Debug\net7.0\Project4_GetInvocationList.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day7\Project4_GetInvocationList\obj\Debug\net7.0\ref\Project4_GetInvocationList.dll
