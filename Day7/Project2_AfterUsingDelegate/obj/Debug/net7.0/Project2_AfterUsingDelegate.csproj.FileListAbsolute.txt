@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\obj\Debug\net7.0\Project2_AfterUsingDelegate.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\obj\Debug\net7.0\Project2_AfterUsingDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\obj\Debug\net7.0\Project2_AfterUsingDelegate.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\obj\Debug\net7.0\Project2_AfterUsingDelegate.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\obj\Debug\net7.0\Project2_AfterUsingDelegate.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\bin\Debug\net7.0\Project2_AfterUsingDelegate.exe
+d:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\bin\Debug\net7.0\Project2_AfterUsingDelegate.deps.json
+d:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\bin\Debug\net7.0\Project2_AfterUsingDelegate.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\bin\Debug\net7.0\Project2_AfterUsingDelegate.dll
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\bin\Debug\net7.0\Project2_AfterUsingDelegate.pdb
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\obj\Debug\net7.0\Project2_AfterUsingDelegate.dll
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\obj\Debug\net7.0\refint\Project2_AfterUsingDelegate.dll
+D:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\obj\Debug\net7.0\Project2_AfterUsingDelegate.pdb
+d:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\obj\Debug\net7.0\Project2_AfterUsingDelegate.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day7\Project2_AfterUsingDelegate\obj\Debug\net7.0\ref\Project2_AfterUsingDelegate.dll

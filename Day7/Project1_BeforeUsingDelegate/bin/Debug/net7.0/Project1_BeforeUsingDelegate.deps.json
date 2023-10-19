@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project1_BeforeUsingDelegate/1.0.0": {
+        "runtime": {
+          "Project1_BeforeUsingDelegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project1_BeforeUsingDelegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

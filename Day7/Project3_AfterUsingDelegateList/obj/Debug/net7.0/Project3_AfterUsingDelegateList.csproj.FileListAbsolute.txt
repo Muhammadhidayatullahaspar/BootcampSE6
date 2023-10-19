@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\bin\Debug\net7.0\Project3_AfterUsingDelegateList.exe
+d:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\bin\Debug\net7.0\Project3_AfterUsingDelegateList.deps.json
+d:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\bin\Debug\net7.0\Project3_AfterUsingDelegateList.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\bin\Debug\net7.0\Project3_AfterUsingDelegateList.dll
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\bin\Debug\net7.0\Project3_AfterUsingDelegateList.pdb
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\obj\Debug\net7.0\Project3_AfterUsingDelegateList.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\obj\Debug\net7.0\Project3_AfterUsingDelegateList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\obj\Debug\net7.0\Project3_AfterUsingDelegateList.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\obj\Debug\net7.0\Project3_AfterUsingDelegateList.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\obj\Debug\net7.0\Project3_AfterUsingDelegateList.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\obj\Debug\net7.0\Project3_AfterUsingDelegateList.dll
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\obj\Debug\net7.0\refint\Project3_AfterUsingDelegateList.dll
+D:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\obj\Debug\net7.0\Project3_AfterUsingDelegateList.pdb
+d:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\obj\Debug\net7.0\Project3_AfterUsingDelegateList.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day7\Project3_AfterUsingDelegateList\obj\Debug\net7.0\ref\Project3_AfterUsingDelegateList.dll
