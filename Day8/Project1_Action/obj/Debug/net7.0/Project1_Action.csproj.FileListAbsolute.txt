@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\obj\Debug\net7.0\Project1_Action.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\obj\Debug\net7.0\Project1_Action.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\obj\Debug\net7.0\Project1_Action.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\obj\Debug\net7.0\Project1_Action.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\obj\Debug\net7.0\Project1_Action.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\bin\Debug\net7.0\Project1_Action.exe
+d:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\bin\Debug\net7.0\Project1_Action.deps.json
+d:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\bin\Debug\net7.0\Project1_Action.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\bin\Debug\net7.0\Project1_Action.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\bin\Debug\net7.0\Project1_Action.pdb
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\obj\Debug\net7.0\Project1_Action.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\obj\Debug\net7.0\refint\Project1_Action.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\obj\Debug\net7.0\Project1_Action.pdb
+d:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\obj\Debug\net7.0\Project1_Action.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day8\Project1_Action\obj\Debug\net7.0\ref\Project1_Action.dll

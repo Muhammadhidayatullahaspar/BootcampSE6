@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\obj\Debug\net7.0\Project3_Null.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\obj\Debug\net7.0\Project3_Null.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\obj\Debug\net7.0\Project3_Null.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\obj\Debug\net7.0\Project3_Null.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\obj\Debug\net7.0\Project3_Null.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\bin\Debug\net7.0\Project3_Null.exe
+d:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\bin\Debug\net7.0\Project3_Null.deps.json
+d:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\bin\Debug\net7.0\Project3_Null.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\bin\Debug\net7.0\Project3_Null.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\bin\Debug\net7.0\Project3_Null.pdb
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\obj\Debug\net7.0\Project3_Null.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\obj\Debug\net7.0\refint\Project3_Null.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\obj\Debug\net7.0\Project3_Null.pdb
+d:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\obj\Debug\net7.0\Project3_Null.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day8\Project3_Null\obj\Debug\net7.0\ref\Project3_Null.dll

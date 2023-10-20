@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\obj\Debug\net7.0\Project2_TernaryOperator.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\obj\Debug\net7.0\Project2_TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\obj\Debug\net7.0\Project2_TernaryOperator.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\obj\Debug\net7.0\Project2_TernaryOperator.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\obj\Debug\net7.0\Project2_TernaryOperator.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\bin\Debug\net7.0\Project2_TernaryOperator.exe
+d:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\bin\Debug\net7.0\Project2_TernaryOperator.deps.json
+d:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\bin\Debug\net7.0\Project2_TernaryOperator.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\bin\Debug\net7.0\Project2_TernaryOperator.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\bin\Debug\net7.0\Project2_TernaryOperator.pdb
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\obj\Debug\net7.0\Project2_TernaryOperator.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\obj\Debug\net7.0\refint\Project2_TernaryOperator.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\obj\Debug\net7.0\Project2_TernaryOperator.pdb
+d:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\obj\Debug\net7.0\Project2_TernaryOperator.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day8\Project2_TernaryOperator\obj\Debug\net7.0\ref\Project2_TernaryOperator.dll
