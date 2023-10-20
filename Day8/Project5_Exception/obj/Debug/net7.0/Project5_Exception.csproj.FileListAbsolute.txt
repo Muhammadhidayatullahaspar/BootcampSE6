@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\obj\Debug\net7.0\Project5_Exception.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\obj\Debug\net7.0\Project5_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\obj\Debug\net7.0\Project5_Exception.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\obj\Debug\net7.0\Project5_Exception.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\obj\Debug\net7.0\Project5_Exception.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\bin\Debug\net7.0\Project5_Exception.exe
+d:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\bin\Debug\net7.0\Project5_Exception.deps.json
+d:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\bin\Debug\net7.0\Project5_Exception.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\bin\Debug\net7.0\Project5_Exception.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\bin\Debug\net7.0\Project5_Exception.pdb
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\obj\Debug\net7.0\Project5_Exception.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\obj\Debug\net7.0\refint\Project5_Exception.dll
+D:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\obj\Debug\net7.0\Project5_Exception.pdb
+d:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\obj\Debug\net7.0\Project5_Exception.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day8\Project5_Exception\obj\Debug\net7.0\ref\Project5_Exception.dll
