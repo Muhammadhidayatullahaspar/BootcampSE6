@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day7\Project7_Event\obj\Debug\net7.0\Project7_Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day7\Project7_Event\obj\Debug\net7.0\Project7_Event.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day7\Project7_Event\obj\Debug\net7.0\Project7_Event.AssemblyInfo.cs
+D:\BootcampSE6\Day7\Project7_Event\obj\Debug\net7.0\Project7_Event.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day7\Project7_Event\bin\Debug\net7.0\Project7_Event.exe
+d:\BootcampSE6\Day7\Project7_Event\bin\Debug\net7.0\Project7_Event.deps.json
+d:\BootcampSE6\Day7\Project7_Event\bin\Debug\net7.0\Project7_Event.runtimeconfig.json
+D:\BootcampSE6\Day7\Project7_Event\bin\Debug\net7.0\Project7_Event.dll
+D:\BootcampSE6\Day7\Project7_Event\bin\Debug\net7.0\Project7_Event.pdb
+D:\BootcampSE6\Day7\Project7_Event\obj\Debug\net7.0\Project7_Event.dll
+D:\BootcampSE6\Day7\Project7_Event\obj\Debug\net7.0\refint\Project7_Event.dll
+D:\BootcampSE6\Day7\Project7_Event\obj\Debug\net7.0\Project7_Event.pdb
+d:\BootcampSE6\Day7\Project7_Event\obj\Debug\net7.0\Project7_Event.genruntimeconfig.cache
+d:\BootcampSE6\Day7\Project7_Event\obj\Debug\net7.0\ref\Project7_Event.dll
