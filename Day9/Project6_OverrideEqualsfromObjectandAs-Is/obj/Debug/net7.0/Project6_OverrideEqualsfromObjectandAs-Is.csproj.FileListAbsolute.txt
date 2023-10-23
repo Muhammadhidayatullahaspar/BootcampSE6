@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\obj\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\obj\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\obj\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\obj\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\obj\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\bin\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.exe
+d:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\bin\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.deps.json
+d:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\bin\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\bin\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\bin\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.pdb
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\obj\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\obj\Debug\net7.0\refint\Project6_OverrideEqualsfromObjectandAs-Is.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\obj\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.pdb
+d:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\obj\Debug\net7.0\Project6_OverrideEqualsfromObjectandAs-Is.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day9\Project6_OverrideEqualsfromObjectandAs-Is\obj\Debug\net7.0\ref\Project6_OverrideEqualsfromObjectandAs-Is.dll

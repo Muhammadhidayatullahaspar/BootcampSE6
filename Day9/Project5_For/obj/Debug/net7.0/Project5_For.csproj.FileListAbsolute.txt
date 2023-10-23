@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\bin\Debug\net7.0\Project5_For.exe
+d:\Muhammad Hidayatullah Aspar\Day9\Project5_For\bin\Debug\net7.0\Project5_For.deps.json
+d:\Muhammad Hidayatullah Aspar\Day9\Project5_For\bin\Debug\net7.0\Project5_For.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\bin\Debug\net7.0\Project5_For.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\bin\Debug\net7.0\Project5_For.pdb
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\obj\Debug\net7.0\Project5_For.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\obj\Debug\net7.0\Project5_For.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\obj\Debug\net7.0\Project5_For.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\obj\Debug\net7.0\Project5_For.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\obj\Debug\net7.0\Project5_For.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\obj\Debug\net7.0\Project5_For.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\obj\Debug\net7.0\refint\Project5_For.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project5_For\obj\Debug\net7.0\Project5_For.pdb
+d:\Muhammad Hidayatullah Aspar\Day9\Project5_For\obj\Debug\net7.0\Project5_For.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day9\Project5_For\obj\Debug\net7.0\ref\Project5_For.dll
