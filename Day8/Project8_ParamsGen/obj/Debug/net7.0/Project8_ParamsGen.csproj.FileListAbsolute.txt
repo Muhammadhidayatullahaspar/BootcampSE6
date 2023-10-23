@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day8\Project8_ParamsGen\obj\Debug\net7.0\Project8_ParamsGen.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day8\Project8_ParamsGen\obj\Debug\net7.0\Project8_ParamsGen.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day8\Project8_ParamsGen\obj\Debug\net7.0\Project8_ParamsGen.AssemblyInfo.cs
+D:\BootcampSE6\Day8\Project8_ParamsGen\obj\Debug\net7.0\Project8_ParamsGen.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day8\Project8_ParamsGen\bin\Debug\net7.0\Project8_ParamsGen.exe
+d:\BootcampSE6\Day8\Project8_ParamsGen\bin\Debug\net7.0\Project8_ParamsGen.deps.json
+d:\BootcampSE6\Day8\Project8_ParamsGen\bin\Debug\net7.0\Project8_ParamsGen.runtimeconfig.json
+D:\BootcampSE6\Day8\Project8_ParamsGen\bin\Debug\net7.0\Project8_ParamsGen.dll
+D:\BootcampSE6\Day8\Project8_ParamsGen\bin\Debug\net7.0\Project8_ParamsGen.pdb
+D:\BootcampSE6\Day8\Project8_ParamsGen\obj\Debug\net7.0\Project8_ParamsGen.dll
+D:\BootcampSE6\Day8\Project8_ParamsGen\obj\Debug\net7.0\refint\Project8_ParamsGen.dll
+D:\BootcampSE6\Day8\Project8_ParamsGen\obj\Debug\net7.0\Project8_ParamsGen.pdb
+d:\BootcampSE6\Day8\Project8_ParamsGen\obj\Debug\net7.0\Project8_ParamsGen.genruntimeconfig.cache
+d:\BootcampSE6\Day8\Project8_ParamsGen\obj\Debug\net7.0\ref\Project8_ParamsGen.dll

@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day8\Project9_AnonymousDelegate\bin\Debug\net7.0\Project9_AnonymousDelegate.exe
+d:\BootcampSE6\Day8\Project9_AnonymousDelegate\bin\Debug\net7.0\Project9_AnonymousDelegate.deps.json
+d:\BootcampSE6\Day8\Project9_AnonymousDelegate\bin\Debug\net7.0\Project9_AnonymousDelegate.runtimeconfig.json
+D:\BootcampSE6\Day8\Project9_AnonymousDelegate\bin\Debug\net7.0\Project9_AnonymousDelegate.dll
+D:\BootcampSE6\Day8\Project9_AnonymousDelegate\bin\Debug\net7.0\Project9_AnonymousDelegate.pdb
+D:\BootcampSE6\Day8\Project9_AnonymousDelegate\obj\Debug\net7.0\Project9_AnonymousDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day8\Project9_AnonymousDelegate\obj\Debug\net7.0\Project9_AnonymousDelegate.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day8\Project9_AnonymousDelegate\obj\Debug\net7.0\Project9_AnonymousDelegate.AssemblyInfo.cs
+D:\BootcampSE6\Day8\Project9_AnonymousDelegate\obj\Debug\net7.0\Project9_AnonymousDelegate.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day8\Project9_AnonymousDelegate\obj\Debug\net7.0\Project9_AnonymousDelegate.dll
+D:\BootcampSE6\Day8\Project9_AnonymousDelegate\obj\Debug\net7.0\refint\Project9_AnonymousDelegate.dll
+D:\BootcampSE6\Day8\Project9_AnonymousDelegate\obj\Debug\net7.0\Project9_AnonymousDelegate.pdb
+d:\BootcampSE6\Day8\Project9_AnonymousDelegate\obj\Debug\net7.0\Project9_AnonymousDelegate.genruntimeconfig.cache
+d:\BootcampSE6\Day8\Project9_AnonymousDelegate\obj\Debug\net7.0\ref\Project9_AnonymousDelegate.dll
