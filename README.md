@@ -1,32 +1,32 @@
-### BootcampSE6
+# BootcampSE6
 Formulatrix
 Daftar isi :
-# Day 1
+## Day 1
 1. Pengenalan C#
 2. VsCode
 3. Linqpad
 4. Method
    
-# Day 2
+## Day 2
 1. Constructor
 2. Method
 3. Inheritance
 4. Instance
    
-# Day 3
+## Day 3
 1. ReadOnly
 2. Property
 3. Overload_Inheritance
 4. Overloading
 5. OverrideHiding
    
-# Day 4
+## Day 4
 1. Inheritance
 2. Abstract
 3. Interface
 4. Interface2
    
-# Day 5
+## Day 5
 1. Value
 2. Reference
 3. ReferenceString
@@ -39,7 +39,7 @@ Daftar isi :
 10. GenericMethodCollector
 11. ListCollection
 
-# Day 6
+## Day 6
 1. IntVarString
 2. ObjectGeneric
 3. Ref,Out,In
@@ -56,7 +56,7 @@ Daftar isi :
 14. PenjualPembeli
 15. PenJualPembeli2
 
-# Day 7
+## Day 7
 1. BeforeUsingDelegate
 2. AfterUsingDelegate
 3. AfterUsingDelegateList
@@ -65,7 +65,7 @@ Daftar isi :
 6. DuplicateDelegate
 7. Event
 
-# Day 8 
+## Day 8 
 1. Action
 2. TernaryOperator
 3. Null
