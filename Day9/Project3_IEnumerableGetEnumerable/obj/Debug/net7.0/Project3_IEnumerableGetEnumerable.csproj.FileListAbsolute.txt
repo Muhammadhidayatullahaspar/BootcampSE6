@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\obj\Debug\net7.0\Project3_IEnumerableGetEnumerable.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\obj\Debug\net7.0\Project3_IEnumerableGetEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\obj\Debug\net7.0\Project3_IEnumerableGetEnumerable.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\obj\Debug\net7.0\Project3_IEnumerableGetEnumerable.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\obj\Debug\net7.0\Project3_IEnumerableGetEnumerable.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\bin\Debug\net7.0\Project3_IEnumerableGetEnumerable.exe
+d:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\bin\Debug\net7.0\Project3_IEnumerableGetEnumerable.deps.json
+d:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\bin\Debug\net7.0\Project3_IEnumerableGetEnumerable.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\bin\Debug\net7.0\Project3_IEnumerableGetEnumerable.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\bin\Debug\net7.0\Project3_IEnumerableGetEnumerable.pdb
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\obj\Debug\net7.0\Project3_IEnumerableGetEnumerable.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\obj\Debug\net7.0\refint\Project3_IEnumerableGetEnumerable.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\obj\Debug\net7.0\Project3_IEnumerableGetEnumerable.pdb
+d:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\obj\Debug\net7.0\Project3_IEnumerableGetEnumerable.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day9\Project3_IEnumerableGetEnumerable\obj\Debug\net7.0\ref\Project3_IEnumerableGetEnumerable.dll

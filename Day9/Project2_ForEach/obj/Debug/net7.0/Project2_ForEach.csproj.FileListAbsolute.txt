@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\bin\Debug\net7.0\Project2_ForEach.exe
+d:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\bin\Debug\net7.0\Project2_ForEach.deps.json
+d:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\bin\Debug\net7.0\Project2_ForEach.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\bin\Debug\net7.0\Project2_ForEach.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\bin\Debug\net7.0\Project2_ForEach.pdb
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\obj\Debug\net7.0\Project2_ForEach.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\obj\Debug\net7.0\Project2_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\obj\Debug\net7.0\Project2_ForEach.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\obj\Debug\net7.0\Project2_ForEach.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\obj\Debug\net7.0\Project2_ForEach.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\obj\Debug\net7.0\Project2_ForEach.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\obj\Debug\net7.0\refint\Project2_ForEach.dll
+D:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\obj\Debug\net7.0\Project2_ForEach.pdb
+d:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\obj\Debug\net7.0\Project2_ForEach.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day9\Project2_ForEach\obj\Debug\net7.0\ref\Project2_ForEach.dll
