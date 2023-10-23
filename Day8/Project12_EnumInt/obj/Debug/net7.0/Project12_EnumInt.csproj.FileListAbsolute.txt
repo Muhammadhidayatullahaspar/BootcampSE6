@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day8\Project12_EnumInt\bin\Debug\net7.0\Project12_EnumInt.exe
+d:\BootcampSE6\Day8\Project12_EnumInt\bin\Debug\net7.0\Project12_EnumInt.deps.json
+d:\BootcampSE6\Day8\Project12_EnumInt\bin\Debug\net7.0\Project12_EnumInt.runtimeconfig.json
+D:\BootcampSE6\Day8\Project12_EnumInt\bin\Debug\net7.0\Project12_EnumInt.dll
+D:\BootcampSE6\Day8\Project12_EnumInt\bin\Debug\net7.0\Project12_EnumInt.pdb
+D:\BootcampSE6\Day8\Project12_EnumInt\obj\Debug\net7.0\Project12_EnumInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day8\Project12_EnumInt\obj\Debug\net7.0\Project12_EnumInt.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day8\Project12_EnumInt\obj\Debug\net7.0\Project12_EnumInt.AssemblyInfo.cs
+D:\BootcampSE6\Day8\Project12_EnumInt\obj\Debug\net7.0\Project12_EnumInt.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day8\Project12_EnumInt\obj\Debug\net7.0\Project12_EnumInt.dll
+D:\BootcampSE6\Day8\Project12_EnumInt\obj\Debug\net7.0\refint\Project12_EnumInt.dll
+D:\BootcampSE6\Day8\Project12_EnumInt\obj\Debug\net7.0\Project12_EnumInt.pdb
+d:\BootcampSE6\Day8\Project12_EnumInt\obj\Debug\net7.0\Project12_EnumInt.genruntimeconfig.cache
+d:\BootcampSE6\Day8\Project12_EnumInt\obj\Debug\net7.0\ref\Project12_EnumInt.dll

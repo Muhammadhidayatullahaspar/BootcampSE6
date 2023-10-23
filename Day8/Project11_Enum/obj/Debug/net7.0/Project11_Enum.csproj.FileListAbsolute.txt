@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day8\Project11_Enum\bin\Debug\net7.0\Project11_Enum.exe
+d:\BootcampSE6\Day8\Project11_Enum\bin\Debug\net7.0\Project11_Enum.deps.json
+d:\BootcampSE6\Day8\Project11_Enum\bin\Debug\net7.0\Project11_Enum.runtimeconfig.json
+D:\BootcampSE6\Day8\Project11_Enum\bin\Debug\net7.0\Project11_Enum.dll
+D:\BootcampSE6\Day8\Project11_Enum\bin\Debug\net7.0\Project11_Enum.pdb
+D:\BootcampSE6\Day8\Project11_Enum\obj\Debug\net7.0\Project11_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day8\Project11_Enum\obj\Debug\net7.0\Project11_Enum.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day8\Project11_Enum\obj\Debug\net7.0\Project11_Enum.AssemblyInfo.cs
+D:\BootcampSE6\Day8\Project11_Enum\obj\Debug\net7.0\Project11_Enum.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day8\Project11_Enum\obj\Debug\net7.0\Project11_Enum.dll
+D:\BootcampSE6\Day8\Project11_Enum\obj\Debug\net7.0\refint\Project11_Enum.dll
+D:\BootcampSE6\Day8\Project11_Enum\obj\Debug\net7.0\Project11_Enum.pdb
+d:\BootcampSE6\Day8\Project11_Enum\obj\Debug\net7.0\Project11_Enum.genruntimeconfig.cache
+d:\BootcampSE6\Day8\Project11_Enum\obj\Debug\net7.0\ref\Project11_Enum.dll
