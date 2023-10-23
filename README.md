@@ -1,4 +1,4 @@
-## BootcampSE6
+### BootcampSE6
 Formulatrix
 Daftar isi :
 # Day 1
