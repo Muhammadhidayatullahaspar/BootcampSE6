@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project13_EnumGetValue/1.0.0": {
+        "runtime": {
+          "Project13_EnumGetValue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project13_EnumGetValue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

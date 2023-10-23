@@ -1,0 +1,14 @@
+D:\BootcampSE6\Day8\Project13_EnumGetValue\bin\Debug\net7.0\Project13_EnumGetValue.exe
+d:\BootcampSE6\Day8\Project13_EnumGetValue\bin\Debug\net7.0\Project13_EnumGetValue.deps.json
+d:\BootcampSE6\Day8\Project13_EnumGetValue\bin\Debug\net7.0\Project13_EnumGetValue.runtimeconfig.json
+D:\BootcampSE6\Day8\Project13_EnumGetValue\bin\Debug\net7.0\Project13_EnumGetValue.dll
+D:\BootcampSE6\Day8\Project13_EnumGetValue\bin\Debug\net7.0\Project13_EnumGetValue.pdb
+D:\BootcampSE6\Day8\Project13_EnumGetValue\obj\Debug\net7.0\Project13_EnumGetValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Day8\Project13_EnumGetValue\obj\Debug\net7.0\Project13_EnumGetValue.AssemblyInfoInputs.cache
+D:\BootcampSE6\Day8\Project13_EnumGetValue\obj\Debug\net7.0\Project13_EnumGetValue.AssemblyInfo.cs
+D:\BootcampSE6\Day8\Project13_EnumGetValue\obj\Debug\net7.0\Project13_EnumGetValue.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Day8\Project13_EnumGetValue\obj\Debug\net7.0\Project13_EnumGetValue.dll
+D:\BootcampSE6\Day8\Project13_EnumGetValue\obj\Debug\net7.0\refint\Project13_EnumGetValue.dll
+D:\BootcampSE6\Day8\Project13_EnumGetValue\obj\Debug\net7.0\Project13_EnumGetValue.pdb
+d:\BootcampSE6\Day8\Project13_EnumGetValue\obj\Debug\net7.0\Project13_EnumGetValue.genruntimeconfig.cache
+d:\BootcampSE6\Day8\Project13_EnumGetValue\obj\Debug\net7.0\ref\Project13_EnumGetValue.dll
