@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\bin\Debug\net7.0\Project1_Dictionary.exe
+d:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\bin\Debug\net7.0\Project1_Dictionary.deps.json
+d:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\bin\Debug\net7.0\Project1_Dictionary.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\bin\Debug\net7.0\Project1_Dictionary.dll
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\bin\Debug\net7.0\Project1_Dictionary.pdb
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\obj\Debug\net7.0\Project1_Dictionary.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\obj\Debug\net7.0\Project1_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\obj\Debug\net7.0\Project1_Dictionary.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\obj\Debug\net7.0\Project1_Dictionary.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\obj\Debug\net7.0\Project1_Dictionary.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\obj\Debug\net7.0\Project1_Dictionary.dll
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\obj\Debug\net7.0\refint\Project1_Dictionary.dll
+D:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\obj\Debug\net7.0\Project1_Dictionary.pdb
+d:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\obj\Debug\net7.0\Project1_Dictionary.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day11\Project1_Dictionary\obj\Debug\net7.0\ref\Project1_Dictionary.dll
