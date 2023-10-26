@@ -1,0 +1,4 @@
+D:\BootcampSE6\Domino\Domino\obj\Debug\net7.0\Domino.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Domino\Domino\obj\Debug\net7.0\Domino.AssemblyInfoInputs.cache
+D:\BootcampSE6\Domino\Domino\obj\Debug\net7.0\Domino.AssemblyInfo.cs
+D:\BootcampSE6\Domino\Domino\obj\Debug\net7.0\Domino.csproj.CoreCompileInputs.cache
