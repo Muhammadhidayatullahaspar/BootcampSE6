@@ -1,0 +1,236 @@
+classDiagram
+    PlayerData *-- Tile
+    GameController *-- PlayerinGame
+    IPlayer <|.. Player
+    Tile -- "2" SideTile : Has
+    Tile "1" -- "1" Color : Has
+    Tile "1" -- "1" DotNumber : Has
+    PlayerinGame -- DeckTile
+    PlayerinGame -- IPlayer
+    PlayerinGame -- PlayerData
+    PlayerinGame -- Board
+    Board -- Tile : Contains
+    PlayerinGame -- PlayerAFK : Uses
+    PlayerAFK -- GameController : Manages
+    StandardDominoGameMode "1" -- "1" Tile : Uses
+    BlockingDominoGameMode "1" -- "1" Tile : Uses
+    DrawDominoGameMode "1" -- "1" Tile : Uses
+    TraditionalDominoGameMode "1" -- "1" Tile : Uses
+    StandardDominoGameMode -- DeckTile : Uses
+    DeckTile -- Tile : Contains
+    BlockingDominoGameMode -- DeckTile : Uses
+    DrawDominoGameMode -- DeckTile : Uses
+    PlayerData -- Status
+    DominoRulesManager -- GameController : Manages
+    Tile -- DominoRulesManager : Uses
+    Board -- DominoRulesManager : Uses
+    ScoreRule <|-- TraditionalModeScoreRule
+    ScoreRule <|-- DrawModeScoreRule
+    ScoreRule <|-- StandardModeScoreRule
+    ScoreRule <|-- BlockingModeScoreRule
+    ScoreRule -- GameController : Manages
+    TraditionalDominoGameMode -- TraditionalModeScoreRule : Uses
+    DrawDominoGameMode -- DrawModeScoreRule : Uses
+    StandardDominoGameMode -- StandardModeScoreRule : Uses
+    BlockingDominoGameMode -- BlockingModeScoreRule : Uses
+    PlayerData -- ScoreRule : Calculates
+    GameController -- LastTile : Uses
+    GameController -- PlayerData : Uses
+    LastTile -- PlayerinGame 
+    LastTile -- Tile : Contains
+    PlayerData -- LastTile : Contains
+    TurnManager -- GameController : uses
+    PlayerEliminator -- GameController : uses
+    PlayerUbinFinish -- PlayerEliminator : uses
+    PlayerAFK -- PlayerEliminator : uses
+    PlayerUbinFinish -- PlayerTile : uses
+    ScoreRule -- PlayerTile : uses
+    
+
+    class Player {
+      - _name : string
+      - _id : int
+    }
+    class IPlayer {
+      <<interface>>
+      + GetName() : string
+      + GetId() : int
+    }
+    class Tile {
+      + <readonly> Id : int
+      + <readonly> Dot : DotNumber
+      + <readonly> Colour : Color 
+      + <readonly> Side : SideTile
+      + Tile(Id, Dot, Colour, Side)
+    }
+    class GameController {
+      - _players : Dictionary~PlayerinGame.PlayerData~
+      - _OnDeck : List~DeckTile~
+      - _playerTurn : List~PlayerinGame~
+      - _currentPlayer : PlayerinGame[]
+      - _lastTileHistory: List~LastTile~
+      - currentMode: DominoGameMode
+      - turnManager: TurnManager
+      - playerEliminator: PlayerEliminator
+      + GameController(players: Dictionary~PlayerinGame.PlayerData~, OnDeck: List~DeckTile~, playerTurn: List~PlayerinGame~, currentMode: DominoGameMode, playerEliminator: PlayerEliminator, turnManager: TurnManager)
+      + AddPlayer(IPlayer player) : bool
+      + ShowPlayer() : List~PlayerinGame~ 
+      + DisplayGameRules(DominoGameMode.GetRules())
+      + DisplayScorePlayer(PlayerinGame player, PlayerData.score())
+      + StartGame(PlayerinGame player, DominoGameMode gameMode) : bool
+      + EndGame(PlayerinGame player, DominoGameMode gameMode) : bool
+      + ShuffleTile(Tile tile) : void
+      + GiveTilefromStart(PlayerinGame player, List<Tile> startTiles) : void
+      + GiveTilefromDeck(PlayerinGame player, DeckTile deck) : void
+      + GetLastTile(PlayerData playerData): LastTile
+      + PutTile(PlayerinGame player, DominoRulesManager rulemanager) : void
+      + DrawTile(PlayerinGame player, DominoGameMode gameMode, DeckTile deck) : void
+      + SelectMode(PlayerinGame player, DominoGameMode gameMode) : void
+      + StatusPlayer(PlayerinGame player.PlayerData.status)
+      + AddTileToDeck(DominoGameMode.DeckTile deckTile) : void
+      + PlayerAFK (PlayerinGame players, StatusPlayer defeat) : IPlayer
+      + CalculateFinalScores(PlayerinGame player, ScoreRule scoreRule) : void
+    }
+    class DominoGameMode {
+      <<interface>>
+      + DominoGameMode(GetTime, GetStartTiles, GetRules)
+      + GetTime() : int
+      + GetNumTiles(Tile) : int
+      + GetRules() : string
+    }   
+    class StandardDominoGameMode {
+      + GetTime(2) : int
+      + GetStartTiles(Tile, PlayerinGame) : 7
+      + GetRules() : string
+      + AddTiletoPlayer(List~PlayerinGame~ players, DeckTile deck)
+    }
+
+    class BlockingDominoGameMode {
+      + GetTime(1) : int
+      + GetStartTiles(Tile, PlayerinGame) : 7
+      + GetRules() : string
+      + AddTiletoPlayer(List~PlayerinGame~ players, DeckTile deck)
+    }
+
+    class DrawDominoGameMode {
+      + GetTime(2) : int
+      + GetStartTiles(Tile, PlayerinGame) : 7
+      + GetRules() : string
+      + AddTiletoPlayer(List~PlayerinGame~ players, DeckTile deck)
+    }
+
+    class TraditionalDominoGameMode {
+      + GetTime(1) : int
+      + GetStartTiles(Tile, List~PlayerinGame~) : 28
+      + GetRules() : string
+    }
+ 
+    class DeckTile {
+      + GetFromDeck(PlayerinGame, StandardDominoGameMode) : Tile
+      + GetFromDeck2(PlayerinGame, BlockingDominoGameMode) : Tile
+      + GetFromDeck3(PlayerinGame, DrawDominoGameMode) : Tile
+      + IsNotInPlayerHand(Tile, PlayerinGame) : True
+    }
+    DominoGameMode <|-- StandardDominoGameMode
+    DominoGameMode <|-- BlockingDominoGameMode
+    DominoGameMode <|-- DrawDominoGameMode
+    DominoGameMode <|-- TraditionalDominoGameMode
+    DominoGameMode "1" -- "1" GameController : Mode
+    class SideTile {
+      <<enum>>
+      Side1
+      Side2
+    }
+    class DotNumber {
+      <<enum>>
+      Zero
+      One
+      Two
+      Three
+      Four
+      Five
+      Six
+    }
+    class Status {
+      <<enum>>
+      Win
+      Lose
+      Draw
+    }
+    class Color {
+      <<enum>>
+      Blank
+      Pink
+      Purple
+      Cyan
+      Yellow
+      Green
+      Red
+    }
+    class PlayerData {
+      + playerTile : List~Tile~
+      + score : int
+      + status : Status
+      + GetLastTile(): LastTile
+    }
+    class PlayerinGame {
+      + Player 1(IPlayer, PlayerData)
+      + Player 2(IPlayer, PlayerData)
+      + Player 3(IPlayer, PlayerData)
+      + Player 4(IPlayer, PlayerData)
+    }
+    class Board {
+      + EligibleMove(PlayerinGame, Tile)
+    }
+    class PlayerAFK {
+      + HandlePlayerAFK(PlayerinGame) : void
+    }
+    class DominoRulesManager {
+      + CanTileBePlaced(Tile, Board) : boolean
+    }
+    class ScoreRule {
+        <<Abstract>>
+      + CalculateScore(PlayerinGame, PlayerTile) : void
+    }
+    class TraditionalModeScoreRule {
+      + CalculateScore(PlayerinGame, PlayerTile) : void
+    }
+    class DrawModeScoreRule {
+      + CalculateScore(PlayerinGame, PlayerTile) : void
+    }
+    class StandardModeScoreRule {
+      + CalculateScore(PlayerinGame, PlayerTile) : void
+    }
+    class BlockingModeScoreRule {
+      + CalculateScore(PlayerinGame, PlayerTile) : void
+    }
+    class LastTile {
+      - lastPlayer: PlayerinGame
+      - placedTile: Tile
+      + LastTile(lastPlayer: PlayerinGame, placedTile: Tile)
+      + getLastPlayer(): PlayerinGame
+      + getPlacedTile(): Tile
+    }
+    class TurnManager {
+      - players: List~PlayerinGame~
+      - currentPlayerIndex: int
+      + TurnManager(players: List~PlayerinGame~)
+      + GetCurrentPlayer(): PlayerinGame
+      + NextPlayer(): PlayerinGame
+    }
+    class PlayerEliminator {
+      - players: List~PlayerinGame~
+      + PlayerEliminator(players: List~PlayerinGame~)
+      + EliminatePlayer(PlayerinGame): boolean
+      + CheckPlayerElimination(PlayerinGame, PlayerAFK): boolean
+      + CheckPlayerElimination2(PlayerinGame, PlayerUbinFinish): boolean
+    }
+    class PlayerUbinFinish{
+        + HandlePlayerFinish(PlayerinGame, PlayerTile) : void
+    }
+    class PlayerTile{
+        + HandTileonPlayer(PlayerinGame, List~Tile~)
+    }
+
+
+
