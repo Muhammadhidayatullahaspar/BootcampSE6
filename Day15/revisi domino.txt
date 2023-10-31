@@ -1,0 +1,132 @@
+classDiagram
+    PlayerData *-- Tile
+    IPlayer <|.. Player
+    Tile "1" -- "1" DotNumber : Has
+    StandardDominoGameMode "1" -- "1" Tile : Uses
+    StandardDominoGameMode -- DeckTile : Uses
+    DeckTile -- Tile : Contains
+    PlayerData -- Status
+    DominoRulesManager -- GameController : Manages
+    Tile -- DominoRulesManager : Uses
+    ScoreRule <|-- StandardModeScoreRule
+    ScoreRule -- GameController : Manages
+    StandardDominoGameMode -- StandardModeScoreRule : Uses
+    GameController -- LastTile : Uses
+    GameController -- PlayerData : Uses
+    LastTile -- Tile : Contains
+    PlayerData -- LastTile : Contains
+    TurnManager -- GameController : uses
+    namespace PlayerSpace{
+        class Player {
+        - _name : string
+        - _id : int
+        }
+        class IPlayer {
+        <<interface>>
+        + GetName() : string
+        + GetId() : int
+        }     
+        class PlayerData {
+        + playerTile : List~Tile~
+        + score : int
+        + status : Status
+        + GetLastTile(): LastTile
+        + PlayerData(playerTile, score, status)
+        }
+        class Status {
+        <<enum>>
+        Win
+        Lose by AFK
+        Lose by score
+        Lose by AllEnemyUbinGone
+        Draw
+        onGoing
+        }
+    }
+    namespace TileSpace{ 
+        class Tile {
+        + Side1 : int
+        + Side2 : int
+        + <readonly> Id : int
+        + <readonly> Dot : DotNumber
+        + Tile(Id, Dot, Side1, Side2)
+        }
+        class LastTile {
+        - lastPlayer: PlayerInGame
+        - placedTile: Tile
+        + LastTile(lastPlayer: PlayerInGame, placedTile: Tile)
+        + getLastPlayer(): PlayerInGame
+        + getPlacedTile(): Tile
+        }
+        class DotNumber {
+        <<enum>>
+        Zero
+        One
+        Two
+        Three
+        Four
+        Five
+        Six
+        }    
+        class DeckTile {
+        + GetFromDeck(PlayerInGame, StandardDominoGameMode) : Tile
+        + GetFromDeck2(PlayerInGame, BlockingDominoGameMode) : Tile
+        + GetFromDeck3(PlayerInGame, DrawDominoGameMode) : Tile
+        + IsNotInPlayerHand(Tile, PlayerInGame) : True
+        }
+    }
+    class GameController {
+      - _players : Dictionary~PlayerInGame.PlayerData~
+      - _OnDeck : List~DeckTile~
+      - _playerTurn : List~PlayerInGame~
+      - _lastTileHistory: List~LastTile~
+      - playerEliminator: PlayerEliminator
+      + GameController()
+      + AddPlayer(IPlayer player) : PlayerInGame
+      + ShowPlayer() : List~PlayerInGame~ 
+      + ShuffleTile(Tile tile) : List~Tile~
+      + GetTilefromStart(PlayerInGame player, List~Tile~ startTiles) : void
+      + GetLastTile(PlayerData playerData): LastTile
+      + PutTile(PlayerInGame player, DominoRulesManager rulemanager) : void
+      + DrawTile(PlayerInGame player, DominoGameMode gameMode, DeckTile deck) : void
+      + StatusPlayer(PlayerInGame player.PlayerData.status)
+      + AddTileToDeck(DominoGameMode.DeckTile deckTile) : List~Tile~
+      + CalculateFinalScores(PlayerInGame player, ScoreRule scoreRule) : int
+    }
+    namespace Domino{   
+        class DominoGameMode {
+        <<interface>>
+        + DominoGameMode(GetTime, GetStartTiles, GetRules)
+        + GetTime() : int
+        + GetNumTiles(Tile) : int
+        + GetRules() : string
+        }   
+        class StandardDominoGameMode {
+        + GetTime(2) : int
+        + GetStartTiles(Tile, PlayerInGame) : 7
+        + GetRules() : string
+        + AddTiletoPlayer(List~PlayerInGame~ players, DeckTile deck)
+        }
+        class DominoRulesManager {
+        + CanTileBePlaced(Tile, List~PlayerInGame~) : boolean
+        }
+        class StandardModeScoreRule {
+        + CalculateScore(PlayerInGame, PlayerTile) : void
+        }
+        class TurnManager {
+        - players: List~PlayerInGame~
+        - currentPlayerIndex: int
+        + TurnManager(players: List~PlayerInGame~)
+        + GetCurrentPlayer(): PlayerInGame
+        + NextPlayer(): PlayerInGame
+        }
+        class Location{
+            +
+        }
+    }
+    DominoGameMode <|-- StandardDominoGameMode
+    DominoGameMode "1" -- "1" GameController : Mode
+    
+
+
+
