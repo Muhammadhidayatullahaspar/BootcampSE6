@@ -1,0 +1,79 @@
+classDiagram
+    PlayerData *-- Tile
+    IPlayer <|.. Player
+    Tile "1" -- "1" DotNumber : Has
+    PlayerData -- Status
+    GameController *-- PlayerData : Uses
+    IPlayer --* GameController
+    namespace PlayerSpace{
+        class Player {
+        - _name : string
+        - _id : int
+        }
+        class IPlayer {
+        <<interface>>
+        + GetName() : string
+        + GetId() : int
+        }     
+        class PlayerData {
+        + playerTile : List~Tile~
+        + score : int
+        + status : Status
+        + PlayerData(playerTile, score, status)
+        + CalculateScore(PlayerTile) : void
+        }
+        class Status {
+        <<enum>>
+        Win
+        Lose by AFK
+        Lose by score
+        Lose by AllEnemyUbinGone
+        Draw
+        onGoing
+        }
+    }
+    namespace TileSpace{ 
+        class Tile {
+        + Side1 : int
+        + Side2 : int
+        + <readonly> Id : int
+        + <readonly> Dot : DotNumber
+        + Tile(Id, Dot, Side1, Side2)
+        }
+        class DotNumber {
+        <<enum>>
+        Zero
+        One
+        Two
+        Three
+        Four
+        Five
+        Six
+        }   
+    }
+    class GameController {
+      - _players : Dict~PlayerData~
+      - _OnDeck : List~DeckTile~
+      - _playerTurn : List~IPlayer~
+      + PlayerTile(IPlayer) : List~Tile~
+      + DeckTile : List~Tile~
+      + TileRight : Tile
+      + TileLeft : Tile
+      + TileOption(TileRight, TileLeft)
+      + GameController(List~IPlayer~ players)
+      + AddPlayer(IPlayer) : bool 
+      + ShowPlayer() : List~IPlayer~ 
+      + InitialTile() : List~Tile~
+      + InitialTilePlayers( IPlayer) : List~Tile~
+      + PutTile(IPlayer, TileOption) : bool
+      + DrawTile(IPlayer, DeckTile) : Tile
+      + NextTurn() : IPlayer
+      + StatusPlayer(IPlayer) : status
+      + AddTileToDeck() : List~Tile~
+      + CalculateScore(IPlayer) : score
+      + RemovePlayer(IPlayer) : void
+    }
+    
+
+
+

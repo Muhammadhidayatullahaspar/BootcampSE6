@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\bin\Debug\net7.0\Project5_GenCheckDispose.exe
+d:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\bin\Debug\net7.0\Project5_GenCheckDispose.deps.json
+d:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\bin\Debug\net7.0\Project5_GenCheckDispose.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\bin\Debug\net7.0\Project5_GenCheckDispose.dll
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\bin\Debug\net7.0\Project5_GenCheckDispose.pdb
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\obj\Debug\net7.0\Project5_GenCheckDispose.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\obj\Debug\net7.0\Project5_GenCheckDispose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\obj\Debug\net7.0\Project5_GenCheckDispose.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\obj\Debug\net7.0\Project5_GenCheckDispose.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\obj\Debug\net7.0\Project5_GenCheckDispose.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\obj\Debug\net7.0\Project5_GenCheckDispose.dll
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\obj\Debug\net7.0\refint\Project5_GenCheckDispose.dll
+D:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\obj\Debug\net7.0\Project5_GenCheckDispose.pdb
+d:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\obj\Debug\net7.0\Project5_GenCheckDispose.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day17\Project5_GenCheckDispose\obj\Debug\net7.0\ref\Project5_GenCheckDispose.dll
