@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\obj\Debug\net7.0\Project3_GenCheckWithoutFinalizers.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\obj\Debug\net7.0\Project3_GenCheckWithoutFinalizers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\obj\Debug\net7.0\Project3_GenCheckWithoutFinalizers.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\obj\Debug\net7.0\Project3_GenCheckWithoutFinalizers.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\obj\Debug\net7.0\Project3_GenCheckWithoutFinalizers.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\bin\Debug\net7.0\Project3_GenCheckWithoutFinalizers.exe
+d:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\bin\Debug\net7.0\Project3_GenCheckWithoutFinalizers.deps.json
+d:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\bin\Debug\net7.0\Project3_GenCheckWithoutFinalizers.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\bin\Debug\net7.0\Project3_GenCheckWithoutFinalizers.dll
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\bin\Debug\net7.0\Project3_GenCheckWithoutFinalizers.pdb
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\obj\Debug\net7.0\Project3_GenCheckWithoutFinalizers.dll
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\obj\Debug\net7.0\refint\Project3_GenCheckWithoutFinalizers.dll
+D:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\obj\Debug\net7.0\Project3_GenCheckWithoutFinalizers.pdb
+d:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\obj\Debug\net7.0\Project3_GenCheckWithoutFinalizers.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day17\Project3_GenCheckWithoutFinalizers\obj\Debug\net7.0\ref\Project3_GenCheckWithoutFinalizers.dll
