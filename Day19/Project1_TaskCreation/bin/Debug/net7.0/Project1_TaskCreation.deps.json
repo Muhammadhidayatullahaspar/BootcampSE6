@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Project1_TaskCreation/1.0.0": {
+        "runtime": {
+          "Project1_TaskCreation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project1_TaskCreation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\obj\Debug\net7.0\Project1_TaskCreation.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\obj\Debug\net7.0\Project1_TaskCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\obj\Debug\net7.0\Project1_TaskCreation.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\obj\Debug\net7.0\Project1_TaskCreation.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\obj\Debug\net7.0\Project1_TaskCreation.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\bin\Debug\net7.0\Project1_TaskCreation.exe
+d:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\bin\Debug\net7.0\Project1_TaskCreation.deps.json
+d:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\bin\Debug\net7.0\Project1_TaskCreation.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\bin\Debug\net7.0\Project1_TaskCreation.dll
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\bin\Debug\net7.0\Project1_TaskCreation.pdb
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\obj\Debug\net7.0\Project1_TaskCreation.dll
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\obj\Debug\net7.0\refint\Project1_TaskCreation.dll
+D:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\obj\Debug\net7.0\Project1_TaskCreation.pdb
+d:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\obj\Debug\net7.0\Project1_TaskCreation.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day19\Project1_TaskCreation\obj\Debug\net7.0\ref\Project1_TaskCreation.dll
