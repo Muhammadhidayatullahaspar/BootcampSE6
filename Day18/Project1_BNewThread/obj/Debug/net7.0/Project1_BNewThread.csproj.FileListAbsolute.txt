@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\bin\Debug\net7.0\Project1_BNewThread.exe
+d:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\bin\Debug\net7.0\Project1_BNewThread.deps.json
+d:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\bin\Debug\net7.0\Project1_BNewThread.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\bin\Debug\net7.0\Project1_BNewThread.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\bin\Debug\net7.0\Project1_BNewThread.pdb
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\obj\Debug\net7.0\Project1_BNewThread.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\obj\Debug\net7.0\Project1_BNewThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\obj\Debug\net7.0\Project1_BNewThread.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\obj\Debug\net7.0\Project1_BNewThread.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\obj\Debug\net7.0\Project1_BNewThread.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\obj\Debug\net7.0\Project1_BNewThread.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\obj\Debug\net7.0\refint\Project1_BNewThread.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\obj\Debug\net7.0\Project1_BNewThread.pdb
+d:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\obj\Debug\net7.0\Project1_BNewThread.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day18\Project1_BNewThread\obj\Debug\net7.0\ref\Project1_BNewThread.dll

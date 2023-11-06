@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\bin\Debug\net7.0\Project3_ITaskCreation.exe
+d:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\bin\Debug\net7.0\Project3_ITaskCreation.deps.json
+d:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\bin\Debug\net7.0\Project3_ITaskCreation.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\bin\Debug\net7.0\Project3_ITaskCreation.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\bin\Debug\net7.0\Project3_ITaskCreation.pdb
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\obj\Debug\net7.0\Project3_ITaskCreation.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\obj\Debug\net7.0\Project3_ITaskCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\obj\Debug\net7.0\Project3_ITaskCreation.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\obj\Debug\net7.0\Project3_ITaskCreation.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\obj\Debug\net7.0\Project3_ITaskCreation.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\obj\Debug\net7.0\Project3_ITaskCreation.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\obj\Debug\net7.0\refint\Project3_ITaskCreation.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\obj\Debug\net7.0\Project3_ITaskCreation.pdb
+d:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\obj\Debug\net7.0\Project3_ITaskCreation.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day18\Project3_ITaskCreation\obj\Debug\net7.0\ref\Project3_ITaskCreation.dll
