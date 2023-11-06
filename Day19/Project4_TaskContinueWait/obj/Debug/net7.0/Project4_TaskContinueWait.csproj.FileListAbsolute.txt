@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\bin\Debug\net7.0\Project4_TaskContinueWait.exe
+d:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\bin\Debug\net7.0\Project4_TaskContinueWait.deps.json
+d:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\bin\Debug\net7.0\Project4_TaskContinueWait.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\bin\Debug\net7.0\Project4_TaskContinueWait.dll
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\bin\Debug\net7.0\Project4_TaskContinueWait.pdb
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\obj\Debug\net7.0\Project4_TaskContinueWait.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\obj\Debug\net7.0\Project4_TaskContinueWait.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\obj\Debug\net7.0\Project4_TaskContinueWait.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\obj\Debug\net7.0\Project4_TaskContinueWait.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\obj\Debug\net7.0\Project4_TaskContinueWait.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\obj\Debug\net7.0\Project4_TaskContinueWait.dll
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\obj\Debug\net7.0\refint\Project4_TaskContinueWait.dll
+D:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\obj\Debug\net7.0\Project4_TaskContinueWait.pdb
+d:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\obj\Debug\net7.0\Project4_TaskContinueWait.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day19\Project4_TaskContinueWait\obj\Debug\net7.0\ref\Project4_TaskContinueWait.dll
