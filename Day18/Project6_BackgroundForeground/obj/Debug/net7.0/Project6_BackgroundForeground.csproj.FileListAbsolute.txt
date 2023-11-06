@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\obj\Debug\net7.0\Project6_BackgroundForeground.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\obj\Debug\net7.0\Project6_BackgroundForeground.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\obj\Debug\net7.0\Project6_BackgroundForeground.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\obj\Debug\net7.0\Project6_BackgroundForeground.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\obj\Debug\net7.0\Project6_BackgroundForeground.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\bin\Debug\net7.0\Project6_BackgroundForeground.exe
+d:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\bin\Debug\net7.0\Project6_BackgroundForeground.deps.json
+d:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\bin\Debug\net7.0\Project6_BackgroundForeground.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\bin\Debug\net7.0\Project6_BackgroundForeground.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\bin\Debug\net7.0\Project6_BackgroundForeground.pdb
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\obj\Debug\net7.0\Project6_BackgroundForeground.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\obj\Debug\net7.0\refint\Project6_BackgroundForeground.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\obj\Debug\net7.0\Project6_BackgroundForeground.pdb
+d:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\obj\Debug\net7.0\Project6_BackgroundForeground.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day18\Project6_BackgroundForeground\obj\Debug\net7.0\ref\Project6_BackgroundForeground.dll

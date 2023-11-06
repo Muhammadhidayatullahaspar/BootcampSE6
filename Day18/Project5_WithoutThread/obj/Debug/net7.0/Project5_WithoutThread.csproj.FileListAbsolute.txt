@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\obj\Debug\net7.0\Project5_WithoutThread.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\obj\Debug\net7.0\Project5_WithoutThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\obj\Debug\net7.0\Project5_WithoutThread.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\obj\Debug\net7.0\Project5_WithoutThread.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\obj\Debug\net7.0\Project5_WithoutThread.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\bin\Debug\net7.0\Project5_WithoutThread.exe
+d:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\bin\Debug\net7.0\Project5_WithoutThread.deps.json
+d:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\bin\Debug\net7.0\Project5_WithoutThread.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\bin\Debug\net7.0\Project5_WithoutThread.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\bin\Debug\net7.0\Project5_WithoutThread.pdb
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\obj\Debug\net7.0\Project5_WithoutThread.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\obj\Debug\net7.0\refint\Project5_WithoutThread.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\obj\Debug\net7.0\Project5_WithoutThread.pdb
+d:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\obj\Debug\net7.0\Project5_WithoutThread.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day18\Project5_WithoutThread\obj\Debug\net7.0\ref\Project5_WithoutThread.dll
