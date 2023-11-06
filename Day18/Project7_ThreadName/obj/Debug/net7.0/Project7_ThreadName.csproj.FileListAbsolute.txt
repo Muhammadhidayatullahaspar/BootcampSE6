@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\bin\Debug\net7.0\Project7_ThreadName.exe
+d:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\bin\Debug\net7.0\Project7_ThreadName.deps.json
+d:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\bin\Debug\net7.0\Project7_ThreadName.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\bin\Debug\net7.0\Project7_ThreadName.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\bin\Debug\net7.0\Project7_ThreadName.pdb
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\obj\Debug\net7.0\Project7_ThreadName.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\obj\Debug\net7.0\Project7_ThreadName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\obj\Debug\net7.0\Project7_ThreadName.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\obj\Debug\net7.0\Project7_ThreadName.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\obj\Debug\net7.0\Project7_ThreadName.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\obj\Debug\net7.0\Project7_ThreadName.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\obj\Debug\net7.0\refint\Project7_ThreadName.dll
+D:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\obj\Debug\net7.0\Project7_ThreadName.pdb
+d:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\obj\Debug\net7.0\Project7_ThreadName.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day18\Project7_ThreadName\obj\Debug\net7.0\ref\Project7_ThreadName.dll
