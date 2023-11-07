@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\obj\Debug\net7.0\Project4_Debugger.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\obj\Debug\net7.0\Project4_Debugger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\obj\Debug\net7.0\Project4_Debugger.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\obj\Debug\net7.0\Project4_Debugger.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\obj\Debug\net7.0\Project4_Debugger.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\bin\Debug\net7.0\Project4_Debugger.exe
+d:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\bin\Debug\net7.0\Project4_Debugger.deps.json
+d:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\bin\Debug\net7.0\Project4_Debugger.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\bin\Debug\net7.0\Project4_Debugger.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\bin\Debug\net7.0\Project4_Debugger.pdb
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\obj\Debug\net7.0\Project4_Debugger.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\obj\Debug\net7.0\refint\Project4_Debugger.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\obj\Debug\net7.0\Project4_Debugger.pdb
+d:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\obj\Debug\net7.0\Project4_Debugger.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day20\Project4_Debugger\obj\Debug\net7.0\ref\Project4_Debugger.dll
