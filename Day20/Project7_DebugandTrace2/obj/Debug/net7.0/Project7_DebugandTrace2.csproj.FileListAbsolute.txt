@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\bin\Debug\net7.0\Project7_DebugandTrace2.exe
+d:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\bin\Debug\net7.0\Project7_DebugandTrace2.deps.json
+d:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\bin\Debug\net7.0\Project7_DebugandTrace2.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\bin\Debug\net7.0\Project7_DebugandTrace2.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\bin\Debug\net7.0\Project7_DebugandTrace2.pdb
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\obj\Debug\net7.0\Project7_DebugandTrace2.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\obj\Debug\net7.0\Project7_DebugandTrace2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\obj\Debug\net7.0\Project7_DebugandTrace2.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\obj\Debug\net7.0\Project7_DebugandTrace2.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\obj\Debug\net7.0\Project7_DebugandTrace2.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\obj\Debug\net7.0\Project7_DebugandTrace2.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\obj\Debug\net7.0\refint\Project7_DebugandTrace2.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\obj\Debug\net7.0\Project7_DebugandTrace2.pdb
+d:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\obj\Debug\net7.0\Project7_DebugandTrace2.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day20\Project7_DebugandTrace2\obj\Debug\net7.0\ref\Project7_DebugandTrace2.dll

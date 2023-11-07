@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\obj\Debug\net7.0\Project6_DebugandTrace.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\obj\Debug\net7.0\Project6_DebugandTrace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\obj\Debug\net7.0\Project6_DebugandTrace.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\obj\Debug\net7.0\Project6_DebugandTrace.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\obj\Debug\net7.0\Project6_DebugandTrace.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\bin\Debug\net7.0\Project6_DebugandTrace.exe
+d:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\bin\Debug\net7.0\Project6_DebugandTrace.deps.json
+d:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\bin\Debug\net7.0\Project6_DebugandTrace.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\bin\Debug\net7.0\Project6_DebugandTrace.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\bin\Debug\net7.0\Project6_DebugandTrace.pdb
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\obj\Debug\net7.0\Project6_DebugandTrace.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\obj\Debug\net7.0\refint\Project6_DebugandTrace.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\obj\Debug\net7.0\Project6_DebugandTrace.pdb
+d:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\obj\Debug\net7.0\Project6_DebugandTrace.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day20\Project6_DebugandTrace\obj\Debug\net7.0\ref\Project6_DebugandTrace.dll
