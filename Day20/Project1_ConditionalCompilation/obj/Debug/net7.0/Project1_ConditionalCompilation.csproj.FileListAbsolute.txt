@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\bin\Debug\net7.0\Project1_ConditionalCompilation.exe
+d:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\bin\Debug\net7.0\Project1_ConditionalCompilation.deps.json
+d:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\bin\Debug\net7.0\Project1_ConditionalCompilation.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\bin\Debug\net7.0\Project1_ConditionalCompilation.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\bin\Debug\net7.0\Project1_ConditionalCompilation.pdb
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\obj\Debug\net7.0\Project1_ConditionalCompilation.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\obj\Debug\net7.0\Project1_ConditionalCompilation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\obj\Debug\net7.0\Project1_ConditionalCompilation.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\obj\Debug\net7.0\Project1_ConditionalCompilation.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\obj\Debug\net7.0\Project1_ConditionalCompilation.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\obj\Debug\net7.0\Project1_ConditionalCompilation.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\obj\Debug\net7.0\refint\Project1_ConditionalCompilation.dll
+D:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\obj\Debug\net7.0\Project1_ConditionalCompilation.pdb
+d:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\obj\Debug\net7.0\Project1_ConditionalCompilation.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day20\Project1_ConditionalCompilation\obj\Debug\net7.0\ref\Project1_ConditionalCompilation.dll
