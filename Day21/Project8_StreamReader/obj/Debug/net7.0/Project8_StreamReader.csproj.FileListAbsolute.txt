@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\bin\Debug\net7.0\Project8_StreamReader.exe
+d:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\bin\Debug\net7.0\Project8_StreamReader.deps.json
+d:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\bin\Debug\net7.0\Project8_StreamReader.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\bin\Debug\net7.0\Project8_StreamReader.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\bin\Debug\net7.0\Project8_StreamReader.pdb
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\obj\Debug\net7.0\Project8_StreamReader.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\obj\Debug\net7.0\Project8_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\obj\Debug\net7.0\Project8_StreamReader.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\obj\Debug\net7.0\Project8_StreamReader.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\obj\Debug\net7.0\Project8_StreamReader.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\obj\Debug\net7.0\Project8_StreamReader.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\obj\Debug\net7.0\refint\Project8_StreamReader.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\obj\Debug\net7.0\Project8_StreamReader.pdb
+d:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\obj\Debug\net7.0\Project8_StreamReader.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day21\Project8_StreamReader\obj\Debug\net7.0\ref\Project8_StreamReader.dll
