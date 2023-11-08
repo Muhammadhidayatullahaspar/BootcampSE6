@@ -80,4 +80,85 @@ Daftar isi :
 12. EnumInt
 13. EnumGetValue
 
+## Day 9
+1. Project1_EnumBitwise
+2. Project2_ForEach
+3. Project3_IEnumerableGetEnumerable
+4. Project4_Enumerator
+5. Project5_For
+6. Project6_OverrideEqualsfromObjectandAs-Is
+7. Project7_Partial
+
+## Day 10
+1. Pengenalan Collection
+
+## Day 11
+1. Project1_Dictionary
+2. Project2_Hashtable
+3. Project3_NestedList
+4. Project4_CollectionImplementation
+5. Project5_Stack
+6. Project6_Queue
+
+## Day 12
+1. Buat Flowchart Domino
+
+## Day 13
+1. Present dan revisi flowchart domino
+
+## Day 14
+1. Revisi flowchart domino
+
+## Day 15
+1. Presen dan revisi flowchart domino
+
+## Day 16
+1. Project1_StringBuilder
+2. Project1_TryGarbageCollection
+
+## Day 17
+1. Project1_FinalizerInheritance
+2. Project2_D-LOH
+3. Project3_GenCheckWithoutFinalizers
+4. Project4_WithFinalizer
+5. Project5_GenCheckDispose
+
+## Day 18
+1. Project1_BNewThread
+2. Project2_DThreadClassConstructor
+3. Project3_ITaskCreation
+4. Project4_WithThread
+5. Project5_WithoutThread
+6. Project6_BackgroundForeground
+7. Project7_ThreadName
+8. Project8_Priority
+
+## Day 19
+1. Project1_TaskCreation
+2. Project2_TaskRun
+3. Project3_TaskMethod
+4. Project4_TaskContinueWait
+5. Project5_TaskWhenAll
+
+## Day 20
+1. Project1_ConditionalCompilation
+2. Project2_ConditionalCompilation2
+3. Project3_ConditionalCompilation
+4. Project4_Debugger
+5. Project5_HotReload
+6. Project6_DebugandTrace
+7. Project7_DebugandTrace2
+8. Project8_ConsoleTraceListener
+
+## Day 21
+1. Project1_FileStream
+2. Project2_FileStreamOpen
+3. Project3_FileStreamWrite
+4. Project4_FileStreamReader
+5. Project5_StreamReadervsStreamWriter
+6. Project6_StreamWriter
+7. Project7_StreamWriterUsing
+8. Project8_StreamReader
+9. Project9_StreamReaderReadToEnd
+
 ![software-engineers-vector](https://github.com/Muhammadhidayatullahaspar/BootcampSE6/assets/100209360/5f8e3349-3c35-44dc-90c4-55373b59a6f3)
