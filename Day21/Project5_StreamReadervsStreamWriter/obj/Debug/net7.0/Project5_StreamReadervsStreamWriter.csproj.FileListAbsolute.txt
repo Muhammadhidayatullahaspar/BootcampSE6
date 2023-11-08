@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\obj\Debug\net7.0\Project5_StreamReadervsStreamWriter.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\obj\Debug\net7.0\Project5_StreamReadervsStreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\obj\Debug\net7.0\Project5_StreamReadervsStreamWriter.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\obj\Debug\net7.0\Project5_StreamReadervsStreamWriter.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\obj\Debug\net7.0\Project5_StreamReadervsStreamWriter.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\bin\Debug\net7.0\Project5_StreamReadervsStreamWriter.exe
+d:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\bin\Debug\net7.0\Project5_StreamReadervsStreamWriter.deps.json
+d:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\bin\Debug\net7.0\Project5_StreamReadervsStreamWriter.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\bin\Debug\net7.0\Project5_StreamReadervsStreamWriter.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\bin\Debug\net7.0\Project5_StreamReadervsStreamWriter.pdb
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\obj\Debug\net7.0\Project5_StreamReadervsStreamWriter.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\obj\Debug\net7.0\refint\Project5_StreamReadervsStreamWriter.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\obj\Debug\net7.0\Project5_StreamReadervsStreamWriter.pdb
+d:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\obj\Debug\net7.0\Project5_StreamReadervsStreamWriter.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day21\Project5_StreamReadervsStreamWriter\obj\Debug\net7.0\ref\Project5_StreamReadervsStreamWriter.dll

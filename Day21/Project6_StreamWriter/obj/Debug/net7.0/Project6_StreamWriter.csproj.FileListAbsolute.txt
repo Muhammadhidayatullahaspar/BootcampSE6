@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\bin\Debug\net7.0\Project6_StreamWriter.exe
+d:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\bin\Debug\net7.0\Project6_StreamWriter.deps.json
+d:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\bin\Debug\net7.0\Project6_StreamWriter.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\bin\Debug\net7.0\Project6_StreamWriter.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\bin\Debug\net7.0\Project6_StreamWriter.pdb
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\obj\Debug\net7.0\Project6_StreamWriter.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\obj\Debug\net7.0\Project6_StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\obj\Debug\net7.0\Project6_StreamWriter.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\obj\Debug\net7.0\Project6_StreamWriter.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\obj\Debug\net7.0\Project6_StreamWriter.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\obj\Debug\net7.0\Project6_StreamWriter.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\obj\Debug\net7.0\refint\Project6_StreamWriter.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\obj\Debug\net7.0\Project6_StreamWriter.pdb
+d:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\obj\Debug\net7.0\Project6_StreamWriter.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day21\Project6_StreamWriter\obj\Debug\net7.0\ref\Project6_StreamWriter.dll
