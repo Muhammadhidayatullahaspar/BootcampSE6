@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\bin\Debug\net7.0\Project3_FileStreamWrite.exe
+d:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\bin\Debug\net7.0\Project3_FileStreamWrite.deps.json
+d:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\bin\Debug\net7.0\Project3_FileStreamWrite.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\bin\Debug\net7.0\Project3_FileStreamWrite.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\bin\Debug\net7.0\Project3_FileStreamWrite.pdb
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\obj\Debug\net7.0\Project3_FileStreamWrite.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\obj\Debug\net7.0\Project3_FileStreamWrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\obj\Debug\net7.0\Project3_FileStreamWrite.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\obj\Debug\net7.0\Project3_FileStreamWrite.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\obj\Debug\net7.0\Project3_FileStreamWrite.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\obj\Debug\net7.0\Project3_FileStreamWrite.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\obj\Debug\net7.0\refint\Project3_FileStreamWrite.dll
+D:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\obj\Debug\net7.0\Project3_FileStreamWrite.pdb
+d:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\obj\Debug\net7.0\Project3_FileStreamWrite.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day21\Project3_FileStreamWrite\obj\Debug\net7.0\ref\Project3_FileStreamWrite.dll
