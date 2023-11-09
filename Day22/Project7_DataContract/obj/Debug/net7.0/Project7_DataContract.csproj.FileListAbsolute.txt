@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\bin\Debug\net7.0\Project7_DataContract.exe
+d:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\bin\Debug\net7.0\Project7_DataContract.deps.json
+d:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\bin\Debug\net7.0\Project7_DataContract.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\bin\Debug\net7.0\Project7_DataContract.dll
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\bin\Debug\net7.0\Project7_DataContract.pdb
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\obj\Debug\net7.0\Project7_DataContract.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\obj\Debug\net7.0\Project7_DataContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\obj\Debug\net7.0\Project7_DataContract.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\obj\Debug\net7.0\Project7_DataContract.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\obj\Debug\net7.0\Project7_DataContract.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\obj\Debug\net7.0\Project7_DataContract.dll
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\obj\Debug\net7.0\refint\Project7_DataContract.dll
+D:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\obj\Debug\net7.0\Project7_DataContract.pdb
+d:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\obj\Debug\net7.0\Project7_DataContract.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day22\Project7_DataContract\obj\Debug\net7.0\ref\Project7_DataContract.dll

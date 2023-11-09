@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1_BinarySerialization", "Project1_BinarySerialization\Project1_BinarySerialization.csproj", "{2754E131-3BC5-4B82-8A05-371DC71EAE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2_XMLSerialization", "Project2_XMLSerialization\Project2_XMLSerialization.csproj", "{726AF396-31B3-4FF7-A8AC-281B9DC8E992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3_JSONSerialization", "Project3_JSONSerialization\Project3_JSONSerialization.csproj", "{91BCA9F1-732A-48D9-AECC-44F3CB780405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4_JSONSerialization2", "Project4_JSONSerialization2\Project4_JSONSerialization2.csproj", "{84924CD1-C483-4258-96A3-7BCD388F5348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5_Protobuf", "Project5_Protobuf\Project5_Protobuf.csproj", "{DC88D437-4AF1-4717-82FF-D4F328F7FE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6_DataContractFormatter", "Project6_DataContractFormatter\Project6_DataContractFormatter.csproj", "{C676B192-1777-4B61-AFC0-AE4F6208FAD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project7_DataContract", "Project7_DataContract\Project7_DataContract.csproj", "{41F6398D-27F0-473B-B80F-EDCF7012E581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2754E131-3BC5-4B82-8A05-371DC71EAE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2754E131-3BC5-4B82-8A05-371DC71EAE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2754E131-3BC5-4B82-8A05-371DC71EAE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2754E131-3BC5-4B82-8A05-371DC71EAE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726AF396-31B3-4FF7-A8AC-281B9DC8E992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726AF396-31B3-4FF7-A8AC-281B9DC8E992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726AF396-31B3-4FF7-A8AC-281B9DC8E992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726AF396-31B3-4FF7-A8AC-281B9DC8E992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BCA9F1-732A-48D9-AECC-44F3CB780405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BCA9F1-732A-48D9-AECC-44F3CB780405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BCA9F1-732A-48D9-AECC-44F3CB780405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BCA9F1-732A-48D9-AECC-44F3CB780405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84924CD1-C483-4258-96A3-7BCD388F5348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84924CD1-C483-4258-96A3-7BCD388F5348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84924CD1-C483-4258-96A3-7BCD388F5348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84924CD1-C483-4258-96A3-7BCD388F5348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC88D437-4AF1-4717-82FF-D4F328F7FE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC88D437-4AF1-4717-82FF-D4F328F7FE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC88D437-4AF1-4717-82FF-D4F328F7FE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC88D437-4AF1-4717-82FF-D4F328F7FE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C676B192-1777-4B61-AFC0-AE4F6208FAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C676B192-1777-4B61-AFC0-AE4F6208FAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C676B192-1777-4B61-AFC0-AE4F6208FAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C676B192-1777-4B61-AFC0-AE4F6208FAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F6398D-27F0-473B-B80F-EDCF7012E581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F6398D-27F0-473B-B80F-EDCF7012E581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F6398D-27F0-473B-B80F-EDCF7012E581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F6398D-27F0-473B-B80F-EDCF7012E581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
