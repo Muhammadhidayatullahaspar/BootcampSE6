@@ -1,0 +1,5 @@
+D:\Muhammad Hidayatullah Aspar\Day22\Project1_BinarySerialization\obj\Debug\net7.0\Project1_BinarySerialization.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day22\Project1_BinarySerialization\obj\Debug\net7.0\Project1_BinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day22\Project1_BinarySerialization\obj\Debug\net7.0\Project1_BinarySerialization.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day22\Project1_BinarySerialization\obj\Debug\net7.0\Project1_BinarySerialization.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day22\Project1_BinarySerialization\obj\Debug\net7.0\Project1_BinarySerialization.csproj.CoreCompileInputs.cache
