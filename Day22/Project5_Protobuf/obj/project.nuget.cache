@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rx1LvUxrSZXWl0U+6fCWuOEGzdqn59yA1w5iFReGIKMOJPTGBR7CcVoNKU1ikT9/pwtqdJZFqPPsYtm7B9WI4Q==",
+  "success": true,
+  "projectFilePath": "d:\\Muhammad Hidayatullah Aspar\\Day22\\Project5_Protobuf\\Project5_Protobuf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Batch 6\\.nuget\\packages\\protobuf-net\\3.2.26\\protobuf-net.3.2.26.nupkg.sha512",
+    "C:\\Users\\Batch 6\\.nuget\\packages\\protobuf-net.core\\3.2.26\\protobuf-net.core.3.2.26.nupkg.sha512",
+    "C:\\Users\\Batch 6\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
