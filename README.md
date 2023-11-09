@@ -161,4 +161,13 @@ Daftar isi :
 8. Project8_StreamReader
 9. Project9_StreamReaderReadToEnd
 
+## Day 22
+1. Project1_BinarySerialization
+2. Project2_XMLSerialization
+3. Project3_JSONSerialization
+4. Project4_JSONSerialization2
+5. Project5_Protobuf
+6. Project6_DataContractFormatter
+7. Project7_DataContract
+
 ![software-engineers-vector](https://github.com/Muhammadhidayatullahaspar/BootcampSE6/assets/100209360/5f8e3349-3c35-44dc-90c4-55373b59a6f3)
