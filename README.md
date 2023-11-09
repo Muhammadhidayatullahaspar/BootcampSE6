@@ -1,6 +1,5 @@
 # BootcampSE6
-Formulatrix
-Daftar isi :
+Daftar isi Project :
 ## Day 1
 1. Pengenalan C#
 2. VsCode
