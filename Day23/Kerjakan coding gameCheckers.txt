@@ -1,0 +1,8 @@
+yang perlu ditambahkan
+// 1. kelas buat gerakan piece
+// 2. kelas buat moveavailable, tampilkan available
+// 3. kelas buat ubah piece tipe basic jadi king
+// 4. kelas buat gerakan piece tipe basic kiri atas dan kanan atas satu langkah
+// 5. kelas buat gerakan piece tipe king kiri atas, kanan atas, kiri bawah, dan kanan bawah satu langkah
+// 6. kelas buat position yang implementasikan gethashcode, buat tampilkan piece id pada posisi tertentu
+	
