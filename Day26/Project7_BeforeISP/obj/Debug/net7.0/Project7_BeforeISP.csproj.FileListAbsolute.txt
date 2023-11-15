@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\bin\Debug\net7.0\Project7_BeforeISP.exe
+d:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\bin\Debug\net7.0\Project7_BeforeISP.deps.json
+d:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\bin\Debug\net7.0\Project7_BeforeISP.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\bin\Debug\net7.0\Project7_BeforeISP.dll
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\bin\Debug\net7.0\Project7_BeforeISP.pdb
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\obj\Debug\net7.0\Project7_BeforeISP.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\obj\Debug\net7.0\Project7_BeforeISP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\obj\Debug\net7.0\Project7_BeforeISP.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\obj\Debug\net7.0\Project7_BeforeISP.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\obj\Debug\net7.0\Project7_BeforeISP.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\obj\Debug\net7.0\Project7_BeforeISP.dll
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\obj\Debug\net7.0\refint\Project7_BeforeISP.dll
+D:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\obj\Debug\net7.0\Project7_BeforeISP.pdb
+d:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\obj\Debug\net7.0\Project7_BeforeISP.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day26\Project7_BeforeISP\obj\Debug\net7.0\ref\Project7_BeforeISP.dll

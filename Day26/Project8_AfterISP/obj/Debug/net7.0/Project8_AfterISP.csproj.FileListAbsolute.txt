@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\bin\Debug\net7.0\Project8_AfterISP.exe
+d:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\bin\Debug\net7.0\Project8_AfterISP.deps.json
+d:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\bin\Debug\net7.0\Project8_AfterISP.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\bin\Debug\net7.0\Project8_AfterISP.dll
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\bin\Debug\net7.0\Project8_AfterISP.pdb
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\obj\Debug\net7.0\Project8_AfterISP.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\obj\Debug\net7.0\Project8_AfterISP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\obj\Debug\net7.0\Project8_AfterISP.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\obj\Debug\net7.0\Project8_AfterISP.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\obj\Debug\net7.0\Project8_AfterISP.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\obj\Debug\net7.0\Project8_AfterISP.dll
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\obj\Debug\net7.0\refint\Project8_AfterISP.dll
+D:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\obj\Debug\net7.0\Project8_AfterISP.pdb
+d:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\obj\Debug\net7.0\Project8_AfterISP.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day26\Project8_AfterISP\obj\Debug\net7.0\ref\Project8_AfterISP.dll
