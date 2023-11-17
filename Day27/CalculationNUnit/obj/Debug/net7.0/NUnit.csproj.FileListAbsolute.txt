@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day26\NUnit\bin\Debug\net7.0\NUnit.exe
+c:\C#\Bootcamp\vscode\Day26\NUnit\bin\Debug\net7.0\NUnit.deps.json
+c:\C#\Bootcamp\vscode\Day26\NUnit\bin\Debug\net7.0\NUnit.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day26\NUnit\bin\Debug\net7.0\NUnit.dll
+c:\C#\Bootcamp\vscode\Day26\NUnit\bin\Debug\net7.0\NUnit.pdb
+c:\C#\Bootcamp\vscode\Day26\NUnit\obj\Debug\net7.0\NUnit.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day26\NUnit\obj\Debug\net7.0\NUnit.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day26\NUnit\obj\Debug\net7.0\NUnit.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day26\NUnit\obj\Debug\net7.0\NUnit.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day26\NUnit\obj\Debug\net7.0\NUnit.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day26\NUnit\obj\Debug\net7.0\NUnit.dll
+c:\C#\Bootcamp\vscode\Day26\NUnit\obj\Debug\net7.0\refint\NUnit.dll
+c:\C#\Bootcamp\vscode\Day26\NUnit\obj\Debug\net7.0\NUnit.pdb
+c:\C#\Bootcamp\vscode\Day26\NUnit\obj\Debug\net7.0\NUnit.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day26\NUnit\obj\Debug\net7.0\ref\NUnit.dll
