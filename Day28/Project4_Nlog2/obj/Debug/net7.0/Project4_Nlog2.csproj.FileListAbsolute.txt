@@ -1,0 +1,5 @@
+D:\Muhammad Hidayatullah Aspar\Day28\Project4_Nlog2\obj\Debug\net7.0\Project4_Nlog2.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day28\Project4_Nlog2\obj\Debug\net7.0\Project4_Nlog2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day28\Project4_Nlog2\obj\Debug\net7.0\Project4_Nlog2.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day28\Project4_Nlog2\obj\Debug\net7.0\Project4_Nlog2.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day28\Project4_Nlog2\obj\Debug\net7.0\Project4_Nlog2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\Project3_NLog.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\Project3_NLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\Project3_NLog.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\Project3_NLog.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\Project3_NLog.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\bin\Debug\net7.0\Project3_NLog.exe
+d:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\bin\Debug\net7.0\Project3_NLog.deps.json
+d:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\bin\Debug\net7.0\Project3_NLog.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\bin\Debug\net7.0\Project3_NLog.dll
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\bin\Debug\net7.0\Project3_NLog.pdb
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\bin\Debug\net7.0\NLog.dll
+d:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\Project3_NLog.csproj.CopyComplete
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\Project3_NLog.dll
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\refint\Project3_NLog.dll
+D:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\Project3_NLog.pdb
+d:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\Project3_NLog.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day28\Project3_NLog\obj\Debug\net7.0\ref\Project3_NLog.dll

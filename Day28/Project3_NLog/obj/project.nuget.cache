@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFr22ALeKU3pgZ8NC2mfRQm2L1ZAU60I1JjmenGseFPbTGnZtcym/iZcYdbduGNysMLvHVRNs7ngKXejcAWHQA==",
+  "success": true,
+  "projectFilePath": "d:\\Muhammad Hidayatullah Aspar\\Day28\\Project3_NLog\\Project3_NLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Batch 6\\.nuget\\packages\\nlog\\5.2.5\\nlog.5.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
