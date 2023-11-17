@@ -1,0 +1,315 @@
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\testhost.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.deps.json
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.exe
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\testhost.exe
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\nunit.engine.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\nunit.engine.api.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\nunit.engine.core.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\testcentric.engine.metadata.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.deps.json
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.pdb
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\nunit.framework.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.pdb
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.csproj.CopyComplete
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\refint\CalculationNUnit.Test.dll
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.pdb
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\ref\CalculationNUnit.Test.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\testhost.exe
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\testhost.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\nunit.engine.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\nunit.engine.api.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\nunit.engine.core.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\testcentric.engine.metadata.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.deps.json
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.exe
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.deps.json
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.pdb
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\nunit.framework.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.pdb
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.csproj.CopyComplete
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\refint\CalculationNUnit.Test.dll
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.pdb
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.genruntimeconfig.cache
+c:\CSharp\Bootcamp\vscode\Day26\CalculationNUnit.Test\obj\Debug\net7.0\ref\CalculationNUnit.Test.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\testhost.exe
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\testhost.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\nunit.engine.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\nunit.engine.api.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\nunit.engine.core.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\testcentric.engine.metadata.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.deps.json
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.runtimeconfig.json
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.exe
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.deps.json
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.runtimeconfig.json
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.Test.pdb
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\nunit.framework.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\bin\Debug\net7.0\CalculationNUnit.pdb
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.csproj.AssemblyReference.cache
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.GeneratedMSBuildEditorConfig.editorconfig
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.AssemblyInfoInputs.cache
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.AssemblyInfo.cs
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.csproj.CoreCompileInputs.cache
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.csproj.CopyComplete
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\refint\CalculationNUnit.Test.dll
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.pdb
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\CalculationNUnit.Test.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day27\CalculationNUnit.Test\obj\Debug\net7.0\ref\CalculationNUnit.Test.dll
