@@ -1,0 +1,15 @@
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\bin\Debug\net7.0\MyGame.exe
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\bin\Debug\net7.0\MyGame.deps.json
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\bin\Debug\net7.0\MyGame.runtimeconfig.json
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\bin\Debug\net7.0\MyGame.dll
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\bin\Debug\net7.0\MyGame.pdb
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\obj\Debug\net7.0\MyGame.csproj.AssemblyReference.cache
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\obj\Debug\net7.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\obj\Debug\net7.0\MyGame.AssemblyInfoInputs.cache
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\obj\Debug\net7.0\MyGame.AssemblyInfo.cs
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\obj\Debug\net7.0\MyGame.csproj.CoreCompileInputs.cache
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\obj\Debug\net7.0\MyGame.dll
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\obj\Debug\net7.0\refint\MyGame.dll
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\obj\Debug\net7.0\MyGame.pdb
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\obj\Debug\net7.0\MyGame.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day27\MyGame\obj\Debug\net7.0\ref\MyGame.dll
