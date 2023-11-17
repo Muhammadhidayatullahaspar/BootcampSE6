@@ -1,0 +1,15 @@
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\bin\Debug\net7.0\Project1_ConsoleLogger.exe
+d:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\bin\Debug\net7.0\Project1_ConsoleLogger.deps.json
+d:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\bin\Debug\net7.0\Project1_ConsoleLogger.runtimeconfig.json
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\bin\Debug\net7.0\Project1_ConsoleLogger.dll
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\bin\Debug\net7.0\Project1_ConsoleLogger.pdb
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\obj\Debug\net7.0\Project1_ConsoleLogger.csproj.AssemblyReference.cache
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\obj\Debug\net7.0\Project1_ConsoleLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\obj\Debug\net7.0\Project1_ConsoleLogger.AssemblyInfoInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\obj\Debug\net7.0\Project1_ConsoleLogger.AssemblyInfo.cs
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\obj\Debug\net7.0\Project1_ConsoleLogger.csproj.CoreCompileInputs.cache
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\obj\Debug\net7.0\Project1_ConsoleLogger.dll
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\obj\Debug\net7.0\refint\Project1_ConsoleLogger.dll
+D:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\obj\Debug\net7.0\Project1_ConsoleLogger.pdb
+d:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\obj\Debug\net7.0\Project1_ConsoleLogger.genruntimeconfig.cache
+d:\Muhammad Hidayatullah Aspar\Day28\Project1_ConsoleLogger\obj\Debug\net7.0\ref\Project1_ConsoleLogger.dll
