@@ -1,5 +1,0 @@
-d:\BootcampSE6\Project_Checkers\Project_Checkers\bin\Debug\net7.0\publish\Project_Checkers.exe
-d:\BootcampSE6\Project_Checkers\Project_Checkers\bin\Debug\net7.0\publish\Project_Checkers.dll
-d:\BootcampSE6\Project_Checkers\Project_Checkers\bin\Debug\net7.0\publish\Project_Checkers.deps.json
-d:\BootcampSE6\Project_Checkers\Project_Checkers\bin\Debug\net7.0\publish\Project_Checkers.runtimeconfig.json
-d:\BootcampSE6\Project_Checkers\Project_Checkers\bin\Debug\net7.0\publish\Project_Checkers.pdb
