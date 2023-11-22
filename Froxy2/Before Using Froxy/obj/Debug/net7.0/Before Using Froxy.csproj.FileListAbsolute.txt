@@ -1,0 +1,14 @@
+D:\BootcampSE6\Froxy2\Before Using Froxy\bin\Debug\net7.0\Before Using Froxy.exe
+d:\BootcampSE6\Froxy2\Before Using Froxy\bin\Debug\net7.0\Before Using Froxy.deps.json
+d:\BootcampSE6\Froxy2\Before Using Froxy\bin\Debug\net7.0\Before Using Froxy.runtimeconfig.json
+D:\BootcampSE6\Froxy2\Before Using Froxy\bin\Debug\net7.0\Before Using Froxy.dll
+D:\BootcampSE6\Froxy2\Before Using Froxy\bin\Debug\net7.0\Before Using Froxy.pdb
+D:\BootcampSE6\Froxy2\Before Using Froxy\obj\Debug\net7.0\Before Using Froxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Froxy2\Before Using Froxy\obj\Debug\net7.0\Before Using Froxy.AssemblyInfoInputs.cache
+D:\BootcampSE6\Froxy2\Before Using Froxy\obj\Debug\net7.0\Before Using Froxy.AssemblyInfo.cs
+D:\BootcampSE6\Froxy2\Before Using Froxy\obj\Debug\net7.0\Before Using Froxy.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Froxy2\Before Using Froxy\obj\Debug\net7.0\Before Using Froxy.dll
+D:\BootcampSE6\Froxy2\Before Using Froxy\obj\Debug\net7.0\refint\Before Using Froxy.dll
+D:\BootcampSE6\Froxy2\Before Using Froxy\obj\Debug\net7.0\Before Using Froxy.pdb
+d:\BootcampSE6\Froxy2\Before Using Froxy\obj\Debug\net7.0\Before Using Froxy.genruntimeconfig.cache
+d:\BootcampSE6\Froxy2\Before Using Froxy\obj\Debug\net7.0\ref\Before Using Froxy.dll
