@@ -1,0 +1,14 @@
+E:\Bootcamp SE\BootcampSE6\Practice\Practice1\bin\Debug\net7.0\Practice1.exe
+e:\Bootcamp SE\BootcampSE6\Practice\Practice1\bin\Debug\net7.0\Practice1.deps.json
+e:\Bootcamp SE\BootcampSE6\Practice\Practice1\bin\Debug\net7.0\Practice1.runtimeconfig.json
+E:\Bootcamp SE\BootcampSE6\Practice\Practice1\bin\Debug\net7.0\Practice1.dll
+E:\Bootcamp SE\BootcampSE6\Practice\Practice1\bin\Debug\net7.0\Practice1.pdb
+E:\Bootcamp SE\BootcampSE6\Practice\Practice1\obj\Debug\net7.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bootcamp SE\BootcampSE6\Practice\Practice1\obj\Debug\net7.0\Practice1.AssemblyInfoInputs.cache
+E:\Bootcamp SE\BootcampSE6\Practice\Practice1\obj\Debug\net7.0\Practice1.AssemblyInfo.cs
+E:\Bootcamp SE\BootcampSE6\Practice\Practice1\obj\Debug\net7.0\Practice1.csproj.CoreCompileInputs.cache
+E:\Bootcamp SE\BootcampSE6\Practice\Practice1\obj\Debug\net7.0\Practice1.dll
+E:\Bootcamp SE\BootcampSE6\Practice\Practice1\obj\Debug\net7.0\refint\Practice1.dll
+E:\Bootcamp SE\BootcampSE6\Practice\Practice1\obj\Debug\net7.0\Practice1.pdb
+e:\Bootcamp SE\BootcampSE6\Practice\Practice1\obj\Debug\net7.0\Practice1.genruntimeconfig.cache
+e:\Bootcamp SE\BootcampSE6\Practice\Practice1\obj\Debug\net7.0\ref\Practice1.dll
