@@ -1,0 +1,14 @@
+D:\BootcampSE6\Froxy5\API Froxy\bin\Debug\net7.0\API Froxy.exe
+d:\BootcampSE6\Froxy5\API Froxy\bin\Debug\net7.0\API Froxy.deps.json
+d:\BootcampSE6\Froxy5\API Froxy\bin\Debug\net7.0\API Froxy.runtimeconfig.json
+D:\BootcampSE6\Froxy5\API Froxy\bin\Debug\net7.0\API Froxy.dll
+D:\BootcampSE6\Froxy5\API Froxy\bin\Debug\net7.0\API Froxy.pdb
+D:\BootcampSE6\Froxy5\API Froxy\obj\Debug\net7.0\API Froxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampSE6\Froxy5\API Froxy\obj\Debug\net7.0\API Froxy.AssemblyInfoInputs.cache
+D:\BootcampSE6\Froxy5\API Froxy\obj\Debug\net7.0\API Froxy.AssemblyInfo.cs
+D:\BootcampSE6\Froxy5\API Froxy\obj\Debug\net7.0\API Froxy.csproj.CoreCompileInputs.cache
+D:\BootcampSE6\Froxy5\API Froxy\obj\Debug\net7.0\API Froxy.dll
+D:\BootcampSE6\Froxy5\API Froxy\obj\Debug\net7.0\refint\API Froxy.dll
+D:\BootcampSE6\Froxy5\API Froxy\obj\Debug\net7.0\API Froxy.pdb
+d:\BootcampSE6\Froxy5\API Froxy\obj\Debug\net7.0\API Froxy.genruntimeconfig.cache
+d:\BootcampSE6\Froxy5\API Froxy\obj\Debug\net7.0\ref\API Froxy.dll
