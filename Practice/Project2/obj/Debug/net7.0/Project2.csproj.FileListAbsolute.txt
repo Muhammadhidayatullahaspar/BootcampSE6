@@ -1,0 +1,14 @@
+E:\Bootcamp SE\BootcampSE6\Practice\Project2\bin\Debug\net7.0\Project2.exe
+e:\Bootcamp SE\BootcampSE6\Practice\Project2\bin\Debug\net7.0\Project2.deps.json
+e:\Bootcamp SE\BootcampSE6\Practice\Project2\bin\Debug\net7.0\Project2.runtimeconfig.json
+E:\Bootcamp SE\BootcampSE6\Practice\Project2\bin\Debug\net7.0\Project2.dll
+E:\Bootcamp SE\BootcampSE6\Practice\Project2\bin\Debug\net7.0\Project2.pdb
+E:\Bootcamp SE\BootcampSE6\Practice\Project2\obj\Debug\net7.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bootcamp SE\BootcampSE6\Practice\Project2\obj\Debug\net7.0\Project2.AssemblyInfoInputs.cache
+E:\Bootcamp SE\BootcampSE6\Practice\Project2\obj\Debug\net7.0\Project2.AssemblyInfo.cs
+E:\Bootcamp SE\BootcampSE6\Practice\Project2\obj\Debug\net7.0\Project2.csproj.CoreCompileInputs.cache
+E:\Bootcamp SE\BootcampSE6\Practice\Project2\obj\Debug\net7.0\Project2.dll
+E:\Bootcamp SE\BootcampSE6\Practice\Project2\obj\Debug\net7.0\refint\Project2.dll
+E:\Bootcamp SE\BootcampSE6\Practice\Project2\obj\Debug\net7.0\Project2.pdb
+e:\Bootcamp SE\BootcampSE6\Practice\Project2\obj\Debug\net7.0\Project2.genruntimeconfig.cache
+e:\Bootcamp SE\BootcampSE6\Practice\Project2\obj\Debug\net7.0\ref\Project2.dll
