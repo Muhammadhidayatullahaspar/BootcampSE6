@@ -4,8 +4,8 @@
 	{
 		Console.WriteLine("silahkan masukkan nilai");
 		int num = Convert.ToInt32(Console.ReadLine());
-		Number number = new Number();
-		number.setNumber(num);
+		Number number = new Number(); 
+		number.setNumber(num); // genap or ganjil
 		
 		
 	}
