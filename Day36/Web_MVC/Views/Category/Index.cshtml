@@ -1,0 +1,31 @@
+@model List<Category>
+
+
+<h1>
+    Category
+</h1>
+<a asp-controller="Category" asp-action="Create" class="btn btn-dark">Create Category</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Category Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.CategoryId</td>
+                <td>@c.CategoryName</td>
+                <td>@c.Description</td>
+                <td>
+                    <a class="btn btn-warning" asp-controller="Category" asp-action="Edit" asp-route-id=@c.CategoryId>Edit</a>
+                    <a class="btn btn-danger" asp-controller="Category" asp-action="Delete" asp-route-id=@c.CategoryId>Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
